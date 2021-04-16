@@ -1,0 +1,16 @@
+{
+  "map": "odu_test.osm",
+  "stepSize": 50000000,
+  "showVisualizer": true,
+  "cameraPosition": {
+    "latitude": 36.8876742,
+    "longitude": -76.3149301
+  },
+  "vehicleTypes": {
+    "Car": {
+      "sensors": [],
+      "skills": [],
+      "features": []
+    }
+  }
+}

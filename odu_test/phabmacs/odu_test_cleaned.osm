@@ -1,0 +1,3037 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.48.2">
+  <bounds minlon="-76.31599" minlat="36.88187" maxlon="-76.29915" maxlat="36.88895" origin="CGImap 0.8.3 (620592 spike-08.openstreetmap.org)"/>
+  <node id="221034485" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.879499" lon="-76.30776"/>
+  <node id="221034494" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.880341" lon="-76.307807"/>
+  <node id="221034498" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.881058" lon="-76.307853"/>
+  <node id="221034501" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.881764" lon="-76.307883"/>
+  <node id="221034502" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.882484" lon="-76.307927"/>
+  <node id="221034508" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8832047" lon="-76.3079576"/>
+  <node id="221044407" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.8802" lon="-76.312307"/>
+  <node id="221045737" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.879131" lon="-76.303679"/>
+  <node id="221047697" version="5" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8832803" lon="-76.3057116"/>
+  <node id="221049864" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.882025" lon="-76.300606"/>
+  <node id="221049885" version="6" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8834962" lon="-76.3002899">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="221049958" version="5" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.8848924" lon="-76.3003641">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="221050460" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8833263" lon="-76.3043201"/>
+  <node id="221051128" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.882322" lon="-76.312541"/>
+  <node id="221051132" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.882327" lon="-76.312421"/>
+  <node id="221051210" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.888418" lon="-76.314961"/>
+  <node id="221051219" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87540658" lat="36.8884872" lon="-76.3128043"/>
+  <node id="221051499" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.881984" lon="-76.301606"/>
+  <node id="221051657" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8873997" lon="-76.3115475"/>
+  <node id="221051701" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.887813" lon="-76.299015"/>
+  <node id="221051708" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.887087" lon="-76.298984"/>
+  <node id="221051730" version="3" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="97258867" lat="36.887068" lon="-76.29987">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="221051735" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.887796" lon="-76.299902"/>
+  <node id="221051742" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.88779" lon="-76.300115"/>
+  <node id="221053458" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.891895" lon="-76.313896"/>
+  <node id="221056830" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.890795" lon="-76.314004"/>
+  <node id="221057582" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.894812" lon="-76.313584"/>
+  <node id="221058169" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.889177" lon="-76.31411"/>
+  <node id="221058179" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8890299" lon="-76.30795"/>
+  <node id="221058202" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8896036" lon="-76.3085794"/>
+  <node id="221058663" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151536" lat="36.8820415" lon="-76.3001509"/>
+  <node id="221058669" version="6" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8834616" lon="-76.300226">
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="221058683" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.8848914" lon="-76.3003034">
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="221058687" version="3" timestamp="2021-04-15T01:52:49Z" uid="25867" user="adamos" changeset="25331487" lat="36.8856135" lon="-76.3003438"/>
+  <node id="221058691" version="3" timestamp="2021-04-15T01:52:49Z" uid="42429" user="42429" changeset="3696837" lat="36.8863164" lon="-76.300381"/>
+  <node id="221059247" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.892985" lon="-76.31379"/>
+  <node id="221059529" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.892745" lon="-76.313812"/>
+  <node id="221059724" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.898316" lon="-76.312428"/>
+  <node id="221060900" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8892927" lon="-76.3029205"/>
+  <node id="221061739" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87541252" lat="36.8967208" lon="-76.3133252"/>
+  <node id="221061745" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.896839" lon="-76.312262"/>
+  <node id="221062550" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.896103" lon="-76.313421"/>
+  <node id="221080000" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.879658" lon="-76.312393"/>
+  <node id="221081437" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.899215" lon="-76.312534"/>
+  <node id="221081456" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.899036" lon="-76.312511"/>
+  <node id="221081477" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.89883" lon="-76.312484"/>
+  <node id="221081489" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.898703" lon="-76.312468"/>
+  <node id="221081529" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.893673" lon="-76.313723"/>
+  <node id="221081582" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.89348" lon="-76.313742"/>
+  <node id="221081614" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.893284" lon="-76.313762"/>
+  <node id="221087453" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.88621" lon="-76.312745"/>
+  <node id="221095443" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.9004247" lon="-76.3035698">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221098658" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8873042" lon="-76.314782"/>
+  <node id="221098663" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8873016" lon="-76.3148966"/>
+  <node id="221109016" version="5" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8830263" lon="-76.31258"/>
+  <node id="221109018" version="5" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.883031" lon="-76.3124609"/>
+  <node id="221110559" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8875577" lon="-76.3069081"/>
+  <node id="221110597" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.888302" lon="-76.306272"/>
+  <node id="221110893" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.880897" lon="-76.312465"/>
+  <node id="221110898" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.880902" lon="-76.312344"/>
+  <node id="221111585" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.886232" lon="-76.3026187">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221111590" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.886243" lon="-76.3024022">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221111908" version="3" timestamp="2021-04-15T01:52:49Z" uid="9176" user="Maarten Deen" changeset="24970537" lat="36.8856109" lon="-76.3003983"/>
+  <node id="221111913" version="3" timestamp="2021-04-15T01:52:49Z" uid="42429" user="42429" changeset="3696837" lat="36.8862981" lon="-76.3008871"/>
+  <node id="221113772" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87540658" lat="36.8895945" lon="-76.3141056"/>
+  <node id="221114391" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.879308" lon="-76.312301"/>
+  <node id="221114992" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.892396" lon="-76.313848"/>
+  <node id="221115199" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.897904" lon="-76.312386"/>
+  <node id="221116160" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.895737" lon="-76.313469"/>
+  <node id="221116912" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87540658" lat="36.9009637" lon="-76.312734"/>
+  <node id="221124341" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.881919" lon="-76.31252"/>
+  <node id="221128016" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.892665" lon="-76.31382"/>
+  <node id="221128035" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.890285" lon="-76.314051"/>
+  <node id="221128085" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.890115" lon="-76.314066"/>
+  <node id="221128449" version="3" timestamp="2021-04-15T01:52:49Z" uid="8683377" user="payelgh" changeset="82458720" lat="36.8816891" lon="-76.312507"/>
+  <node id="221128453" version="3" timestamp="2021-04-15T01:52:49Z" uid="8683377" user="payelgh" changeset="82458720" lat="36.8816948" lon="-76.3123862"/>
+  <node id="221137135" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8997207" lon="-76.3033371"/>
+  <node id="221137146" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.899973" lon="-76.312613"/>
+  <node id="221137221" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.900503" lon="-76.312666"/>
+  <node id="221141568" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.887253" lon="-76.316218"/>
+  <node id="221141807" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8890927" lon="-76.3059947"/>
+  <node id="221141820" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.888976" lon="-76.309437"/>
+  <node id="221141823" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.888953" lon="-76.309969"/>
+  <node id="221141826" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.888941" lon="-76.310379"/>
+  <node id="221141830" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.888926" lon="-76.31108"/>
+  <node id="221141834" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.888895" lon="-76.311699"/>
+  <node id="221141838" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.888858" lon="-76.312823"/>
+  <node id="221141844" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.888816" lon="-76.31409"/>
+  <node id="221141852" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.888785" lon="-76.314983"/>
+  <node id="221141856" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.888761" lon="-76.315627"/>
+  <node id="221144130" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8936188" lon="-76.3034302"/>
+  <node id="221144134" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8936074" lon="-76.3036388"/>
+  <node id="221144187" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8937554" lon="-76.303588"/>
+  <node id="221144191" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8937559" lon="-76.3033916"/>
+  <node id="221144765" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.888038" lon="-76.314948"/>
+  <node id="221144770" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.888665" lon="-76.314969"/>
+  <node id="221144905" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.87837" lon="-76.303354"/>
+  <node id="221150528" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8927957" lon="-76.3038778"/>
+  <node id="221150532" version="5" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8927983" lon="-76.3036749"/>
+  <node id="221150583" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8929414" lon="-76.3036265"/>
+  <node id="221150586" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8929332" lon="-76.3038388"/>
+  <node id="221150626" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.892743" lon="-76.310037"/>
+  <node id="221150670" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.893097" lon="-76.312538"/>
+  <node id="221156849" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.879597" lon="-76.303818"/>
+  <node id="221156862" version="3" timestamp="2021-04-15T01:52:49Z" uid="4973384" user="lorandr_telenav" changeset="55649333" lat="36.8795404" lon="-76.305512"/>
+  <node id="221156882" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.879396" lon="-76.310015"/>
+  <node id="221160404" version="9" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8912028" lon="-76.3049428"/>
+  <node id="221167812" version="7" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.9027607" lon="-76.3042153"/>
+  <node id="221169848" version="7" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.89147" lon="-76.313941"/>
+  <node id="221169871" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.895253" lon="-76.313533"/>
+  <node id="221169890" version="3" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38336079" lat="36.8976083" lon="-76.3134281">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="221171595" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8982016" lon="-76.3030711">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221173836" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87605343" lat="36.8866315" lon="-76.312709"/>
+  <node id="221173840" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.886562" lon="-76.314748"/>
+  <node id="221173844" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.886548" lon="-76.315131"/>
+  <node id="221173848" version="3" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499" lat="36.8865176" lon="-76.3165664"/>
+  <node id="221173861" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.887279" lon="-76.293114"/>
+  <node id="221173865" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.887269" lon="-76.293463"/>
+  <node id="221173871" version="3" timestamp="2021-04-15T01:52:49Z" uid="706587" user="Семён Семёнов" changeset="37062856" lat="36.8872204" lon="-76.295054"/>
+  <node id="221173898" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.887121" lon="-76.298056"/>
+  <node id="221173920" version="3" timestamp="2021-04-15T01:52:49Z" uid="2990009" user="Jeffrey Rollins" changeset="31993631" lat="36.8870541" lon="-76.3008513"/>
+  <node id="221173936" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.886991" lon="-76.302459"/>
+  <node id="221176719" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.901487" lon="-76.312783"/>
+  <node id="221181984" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87537513" lat="36.8821032" lon="-76.2982993">
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="221182003" version="5" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87533053" lat="36.881964" lon="-76.3022708">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221182022" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87537513" lat="36.8819179" lon="-76.3035386">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="221182030" version="3" timestamp="2021-04-15T01:52:49Z" uid="25867" user="adamos" changeset="25755661" lat="36.8818845" lon="-76.3046066"/>
+  <node id="221182033" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.881844" lon="-76.30563"/>
+  <node id="221182044" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.881756" lon="-76.308364"/>
+  <node id="221182047" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.881694" lon="-76.31014"/>
+  <node id="221182050" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.881618" lon="-76.312383"/>
+  <node id="221184805" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.9020009" lon="-76.3040248"/>
+  <node id="221184905" version="7" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8944676" lon="-76.3031752"/>
+  <node id="221184909" version="7" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8944521" lon="-76.3033911"/>
+  <node id="221188709" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8989667" lon="-76.3031151"/>
+  <node id="221198903" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.886884" lon="-76.314755"/>
+  <node id="221199885" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.8851" lon="-76.294134"/>
+  <node id="221199890" version="3" timestamp="2021-04-15T01:52:49Z" uid="706587" user="Семён Семёнов" changeset="37062856" lat="36.8850764" lon="-76.294947"/>
+  <node id="221199908" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.884947" lon="-76.298445"/>
+  <node id="221199923" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.8848298" lon="-76.3023247">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221199934" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.884811" lon="-76.3025526">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221200113" version="5" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8812463" lon="-76.3022055"/>
+  <node id="221200124" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87533053" lat="36.8826699" lon="-76.3024465"/>
+  <node id="221200128" version="5" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8834351" lon="-76.3024905">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221200154" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66152932" lat="36.8863005" lon="-76.3026207">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="221200158" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66152932" lat="36.8867977" lon="-76.3026511"/>
+  <node id="221200166" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66152932" lat="36.8870166" lon="-76.3026788"/>
+  <node id="221200174" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66152932" lat="36.8877316" lon="-76.3027892">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221200183" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8882111" lon="-76.3028608"/>
+  <node id="221200197" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8889646" lon="-76.3030332"/>
+  <node id="221200201" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8893855" lon="-76.3031571"/>
+  <node id="221200205" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8895951" lon="-76.3032164"/>
+  <node id="221200216" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8900818" lon="-76.3034621"/>
+  <node id="221200227" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8911297" lon="-76.3040401">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="221200230" version="8" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.891231" lon="-76.3040968">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221200235" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8913399" lon="-76.3041428"/>
+  <node id="221200242" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8914718" lon="-76.3041734"/>
+  <node id="221200246" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8915695" lon="-76.3041881"/>
+  <node id="221200253" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8917154" lon="-76.3041855"/>
+  <node id="221200259" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8918304" lon="-76.3041672"/>
+  <node id="221200263" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8919749" lon="-76.3041258"/>
+  <node id="221200270" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8921068" lon="-76.3040888"/>
+  <node id="221200276" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8951756" lon="-76.3031731">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221200282" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8956285" lon="-76.3030392"/>
+  <node id="221200288" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8959011" lon="-76.3029825"/>
+  <node id="221200291" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8960809" lon="-76.3029735"/>
+  <node id="221200293" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.896613" lon="-76.3029945"/>
+  <node id="221200297" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8987427" lon="-76.3031014"/>
+  <node id="221200300" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.899084" lon="-76.3031383"/>
+  <node id="221200317" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8992724" lon="-76.3031912"/>
+  <node id="221200781" version="5" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87537513" lat="36.8832722" lon="-76.3022416">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="221200783" version="5" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8834484" lon="-76.30226">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221200792" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.8855348" lon="-76.302363"/>
+  <node id="221200795" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66152932" lat="36.8872642" lon="-76.3024615"/>
+  <node id="221200812" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8895689" lon="-76.3030019"/>
+  <node id="221200816" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8897733" lon="-76.3030778"/>
+  <node id="221200821" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8900649" lon="-76.3032281"/>
+  <node id="221200826" version="8" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8912264" lon="-76.3038799">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221200830" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8913724" lon="-76.3039463"/>
+  <node id="221200833" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8915092" lon="-76.3039736"/>
+  <node id="221200837" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8916146" lon="-76.3039849"/>
+  <node id="221200842" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8917041" lon="-76.3039788"/>
+  <node id="221200845" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8918169" lon="-76.3039675"/>
+  <node id="221200850" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8919181" lon="-76.3039352"/>
+  <node id="221200854" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.891984" lon="-76.3039142"/>
+  <node id="221200859" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8921148" lon="-76.3038775"/>
+  <node id="221200862" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8951826" lon="-76.3029632">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="221200863" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8955951" lon="-76.3028387"/>
+  <node id="221200864" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8957585" lon="-76.302796"/>
+  <node id="221200870" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.895908" lon="-76.3027832"/>
+  <node id="221200875" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8960321" lon="-76.3027779"/>
+  <node id="221200879" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8961441" lon="-76.3027682"/>
+  <node id="221200883" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8966136" lon="-76.3027976"/>
+  <node id="221202207" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.900644" lon="-76.312684"/>
+  <node id="221205768" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.878732" lon="-76.303557"/>
+  <node id="221205777" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.878667" lon="-76.305466"/>
+  <node id="221206070" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.883525" lon="-76.298376"/>
+  <node id="221206089" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.885671" lon="-76.298338"/>
+  <node id="221206099" version="3" timestamp="2021-04-15T01:52:49Z" uid="42429" user="42429" changeset="3696837" lat="36.886395" lon="-76.2982008"/>
+  <node id="221206106" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.887842" lon="-76.29793">
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="221208389" version="7" timestamp="2021-04-15T01:52:49Z" uid="172103" user="Birdman757" changeset="2563098" lat="36.891235" lon="-76.310188"/>
+  <node id="221208407" version="7" timestamp="2021-04-15T01:52:49Z" uid="172103" user="Birdman757" changeset="2563098" lat="36.891393" lon="-76.312668"/>
+  <node id="221217137" version="3" timestamp="2021-04-15T01:52:49Z" uid="706587" user="Семён Семёнов" changeset="37062856" lat="36.8836404" lon="-76.294874"/>
+  <node id="221217147" version="3" timestamp="2021-04-15T01:52:49Z" uid="706587" user="Семён Семёнов" changeset="37062856" lat="36.8857613" lon="-76.2949853"/>
+  <node id="221217150" version="4" timestamp="2021-04-15T01:52:49Z" uid="706587" user="Семён Семёнов" changeset="37062856" lat="36.8865112" lon="-76.295016"/>
+  <node id="221227048" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.886526" lon="-76.294566"/>
+  <node id="221229556" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.879383" lon="-76.312356"/>
+  <node id="221229559" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.88482" lon="-76.312672"/>
+  <node id="221229562" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87540658" lat="36.8865688" lon="-76.3127647">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="221229580" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.879392" lon="-76.312276"/>
+  <node id="221229588" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8799966" lon="-76.3123004">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="221229590" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.884271" lon="-76.312524"/>
+  <node id="221229591" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.884824" lon="-76.312554"/>
+  <node id="221229593" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.886496" lon="-76.312642"/>
+  <node id="221229595" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87540658" lat="36.8865597" lon="-76.3126467">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="221229604" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87540658" lat="36.8873086" lon="-76.3127452">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="221229609" version="5" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8873668" lon="-76.312746">
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="221229611" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.888133" lon="-76.312785"/>
+  <node id="221229614" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.889289" lon="-76.312845"/>
+  <node id="221229616" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.889475" lon="-76.312846"/>
+  <node id="221229620" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.889756" lon="-76.312837"/>
+  <node id="221229623" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.890277" lon="-76.312788"/>
+  <node id="221229626" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.89286" lon="-76.31253"/>
+  <node id="221229629" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.893026" lon="-76.312524"/>
+  <node id="221229632" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.893223" lon="-76.312569"/>
+  <node id="221229633" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.893332" lon="-76.312579"/>
+  <node id="221229635" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.894011" lon="-76.312509"/>
+  <node id="221229637" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87546012" lat="36.89514" lon="-76.312363">
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="221229640" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.895829" lon="-76.312277"/>
+  <node id="221229644" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.896264" lon="-76.31223"/>
+  <node id="221229648" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87540658" lat="36.8964591" lon="-76.3122177"/>
+  <node id="221229651" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.896579" lon="-76.312219"/>
+  <node id="221229654" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.898954" lon="-76.3125"/>
+  <node id="221229659" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.899302" lon="-76.312545"/>
+  <node id="221229661" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.89962" lon="-76.312579"/>
+  <node id="221229663" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.900344" lon="-76.312646"/>
+  <node id="221229665" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.901647" lon="-76.3128"/>
+  <node id="221229668" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.902105" lon="-76.312847"/>
+  <node id="221229672" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.902222" lon="-76.312864"/>
+  <node id="221229675" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.902523" lon="-76.312906"/>
+  <node id="221231757" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.892049" lon="-76.310113"/>
+  <node id="221234514" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.880264" lon="-76.31006"/>
+  <node id="221234518" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.880981" lon="-76.310099"/>
+  <node id="221234521" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.882405" lon="-76.310173"/>
+  <node id="221234527" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831252" lon="-76.3102163"/>
+  <node id="221240477" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.882619" lon="-76.304028"/>
+  <node id="221240479" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.882583" lon="-76.304838"/>
+  <node id="221240482" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.882556" lon="-76.305667"/>
+  <node id="221240490" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.882488" lon="-76.307733"/>
+  <node id="221240493" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.882479" lon="-76.308164"/>
+  <node id="221240498" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.882457" lon="-76.308772"/>
+  <node id="221240500" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.882436" lon="-76.309173"/>
+  <node id="221240503" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.882355" lon="-76.311759"/>
+  <node id="221249162" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8875404" lon="-76.3073275"/>
+  <node id="221249170" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.888267" lon="-76.307415"/>
+  <node id="221249174" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.888346" lon="-76.307427"/>
+  <node id="221249182" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.888651" lon="-76.307551"/>
+  <node id="221251061" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.893448" lon="-76.309965"/>
+  <node id="221251665" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.8895" lon="-76.310349"/>
+  <node id="221251673" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.890483" lon="-76.310255"/>
+  <node id="221253999" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.890425" lon="-76.304952"/>
+  <node id="221257209" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8804669" lon="-76.3041177"/>
+  <node id="221257212" version="3" timestamp="2021-04-15T01:52:49Z" uid="25867" user="adamos" changeset="25755661" lat="36.8804155" lon="-76.3055672"/>
+  <node id="221268486" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.885246" lon="-76.294278"/>
+  <node id="221268489" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.885551" lon="-76.294289"/>
+  <node id="221268495" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.88566" lon="-76.294343"/>
+  <node id="221268506" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.885747" lon="-76.29454"/>
+  <node id="221278054" version="5" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87560099" lat="36.8876102" lon="-76.3059506"/>
+  <node id="221280312" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.878385" lon="-76.303368"/>
+  <node id="221280315" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.878776" lon="-76.303575"/>
+  <node id="221280320" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="3383426" lat="36.879456" lon="-76.303772"/>
+  <node id="221280326" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8811729" lon="-76.3043574"/>
+  <node id="221281390" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.881129" lon="-76.30559"/>
+  <node id="221281727" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.888311" lon="-76.305988"/>
+  <node id="221281730" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.888392" lon="-76.305995"/>
+  <node id="221281732" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.888786" lon="-76.306027"/>
+  <node id="221281765" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.889709" lon="-76.305604"/>
+  <node id="221281790" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87560099" lat="36.8905347" lon="-76.3048927"/>
+  <node id="221282533" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.888084" lon="-76.3138"/>
+  <node id="221282538" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.888132" lon="-76.312863"/>
+  <node id="221282549" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8880859" lon="-76.3126283"/>
+  <node id="221282553" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.888132" lon="-76.31131"/>
+  <node id="221282557" version="2" timestamp="2021-04-15T01:52:49Z" uid="147510" user="woodpeck_fixbot" changeset="2533498" lat="36.888167" lon="-76.310172"/>
+  <node id="221282586" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8881659" lon="-76.3126407"/>
+  <node id="1419056407" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.9030652" lon="-76.3042778"/>
+  <node id="1603786866" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8833102" lon="-76.3048204"/>
+  <node id="1603816170" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10486351" lat="36.8826316" lon="-76.3035894"/>
+  <node id="1603985180" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8888263" lon="-76.3027912"/>
+  <node id="1603985181" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8888255" lon="-76.302993"/>
+  <node id="1603985188" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8888896" lon="-76.3028159"/>
+  <node id="1603985219" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10487679" lat="36.8902984" lon="-76.3050672"/>
+  <node id="1603985222" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10487679" lat="36.8906203" lon="-76.3048942"/>
+  <node id="1603985226" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10487679" lat="36.8907724" lon="-76.3048999"/>
+  <node id="1603997088" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8876898" lon="-76.3044006"/>
+  <node id="1603997090" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8877155" lon="-76.303495"/>
+  <node id="1603997128" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10487778" lat="36.8883354" lon="-76.3059901"/>
+  <node id="1604013724" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10487927" lat="36.8877789" lon="-76.3005082"/>
+  <node id="1604027245" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10488020" lat="36.8856243" lon="-76.2999532"/>
+  <node id="1604027246" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10488020" lat="36.8856286" lon="-76.2998043"/>
+  <node id="1604027275" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10488020" lat="36.8863764" lon="-76.298717"/>
+  <node id="1604027276" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10488020" lat="36.8871068" lon="-76.2984433"/>
+  <node id="1604027281" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10488020" lat="36.8878261" lon="-76.2985266"/>
+  <node id="1604027290" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10488020" lat="36.8878285" lon="-76.2984351"/>
+  <node id="1604027292" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10488020" lat="36.8878307" lon="-76.2983513"/>
+  <node id="1604027294" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10488020" lat="36.8878377" lon="-76.2980926"/>
+  <node id="1604042844" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10488182" lat="36.8819484" lon="-76.3026497"/>
+  <node id="1604042862" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10488182" lat="36.8826565" lon="-76.3027219"/>
+  <node id="1604068521" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8833857" lon="-76.3034796"/>
+  <node id="1604097756" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10488544" lat="36.8847753" lon="-76.3038607"/>
+  <node id="1604097758" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10488544" lat="36.8847811" lon="-76.3036326"/>
+  <node id="1604097973" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8875448" lon="-76.307197"/>
+  <node id="1604097974" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87560099" lat="36.8875736" lon="-76.3065022"/>
+  <node id="1605070054" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8837198" lon="-76.3126158"/>
+  <node id="1605070056" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.883725" lon="-76.3124966"/>
+  <node id="1605070070" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10494721" lat="36.8840394" lon="-76.312631"/>
+  <node id="1605070078" version="1" timestamp="2021-04-15T01:52:49Z" uid="583665" user="ccont003" changeset="10494721" lat="36.8844964" lon="-76.312655"/>
+  <node id="1605070080" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8845004" lon="-76.3125358"/>
+  <node id="2065015362" version="1" timestamp="2021-04-15T01:52:49Z" uid="240041" user="kugelfiesch" changeset="14261501" lat="36.886261" lon="-76.3019038"/>
+  <node id="2065015380" version="1" timestamp="2021-04-15T01:52:49Z" uid="240041" user="kugelfiesch" changeset="14261501" lat="36.8868483" lon="-76.302451"/>
+  <node id="2065015391" version="2" timestamp="2021-04-15T01:52:49Z" uid="2226712" user="DannyAiquipa" changeset="28351345" lat="36.8870094" lon="-76.3019302"/>
+  <node id="3038535113" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8834594" lon="-76.3001598">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3038535116" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.8848854" lon="-76.3002371">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3038535117" version="1" timestamp="2021-04-15T01:52:49Z" uid="9176" user="Maarten Deen" changeset="24970537" lat="36.885615" lon="-76.3002765"/>
+  <node id="3038535118" version="1" timestamp="2021-04-15T01:52:49Z" uid="9176" user="Maarten Deen" changeset="24970537" lat="36.8863138" lon="-76.3004519"/>
+  <node id="3038535119" version="1" timestamp="2021-04-15T01:52:49Z" uid="9176" user="Maarten Deen" changeset="24970537" lat="36.8863193" lon="-76.3003001"/>
+  <node id="3305998390" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66152932" lat="36.8877349" lon="-76.3019768"/>
+  <node id="3469861620" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831142" lon="-76.3125852">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861621" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831186" lon="-76.3124605">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861624" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8832491" lon="-76.3024761">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861629" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87533053" lat="36.8834848" lon="-76.3024948">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861630" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87533053" lat="36.883496" lon="-76.3022644">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861641" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151536" lat="36.884738" lon="-76.3023232">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861642" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151536" lat="36.8847506" lon="-76.3025498">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861646" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.8848298" lon="-76.3022369">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861649" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.884872" lon="-76.3025514">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861650" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.8849019" lon="-76.3023317">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861658" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8855351" lon="-76.3022848">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861670" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.886177" lon="-76.3023977">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861671" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.8861747" lon="-76.3026133">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861673" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66152932" lat="36.886246" lon="-76.3023321">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861676" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.8863071" lon="-76.3024069">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861683" version="1" timestamp="2021-04-15T01:52:49Z" uid="2748195" user="karitotp" changeset="30383888" lat="36.886994" lon="-76.302373"/>
+  <node id="3469861690" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8876811" lon="-76.3045817">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861898" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8878259" lon="-76.3025445">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3469861899" version="6" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.887833" lon="-76.3027986">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3993792890" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8876167" lon="-76.3027669">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3993792894" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66152932" lat="36.8877199" lon="-76.3025254">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="4001589254" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8877127" lon="-76.302444">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4001593557" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8877336" lon="-76.302882">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4001593559" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8876472" lon="-76.3025169">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4100881803" version="1" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499" lat="36.888126" lon="-76.3114838"/>
+  <node id="4100881804" version="1" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499" lat="36.8882055" lon="-76.3114883"/>
+  <node id="4100881805" version="1" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499" lat="36.8882168" lon="-76.3087985"/>
+  <node id="4100881806" version="1" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499" lat="36.8882984" lon="-76.3088033"/>
+  <node id="4100881807" version="1" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499" lat="36.8889316" lon="-76.3060292"/>
+  <node id="4100881808" version="1" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499" lat="36.8890153" lon="-76.3060184"/>
+  <node id="4232472101" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66152932" lat="36.8877694" lon="-76.3008853"/>
+  <node id="4232472106" version="1" timestamp="2021-04-15T01:52:49Z" uid="4087114" user="MikeO1994" changeset="39894007" lat="36.8877812" lon="-76.3004267"/>
+  <node id="5348961036" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.883122" lon="-76.3103154">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961037" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8832004" lon="-76.30808">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961038" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8833185" lon="-76.3025772">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961039" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8834727" lon="-76.301162">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961040" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8833012" lon="-76.3029595"/>
+  <node id="5348961041" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8834103" lon="-76.3029685"/>
+  <node id="5348961042" version="1" timestamp="2021-04-15T01:52:49Z" uid="5245700" user="georges90" changeset="55575325" lat="36.8833747" lon="-76.3014429"/>
+  <node id="5348961043" version="1" timestamp="2021-04-15T01:52:49Z" uid="5245700" user="georges90" changeset="55575325" lat="36.8834651" lon="-76.3014457"/>
+  <node id="5348961044" version="1" timestamp="2021-04-15T01:52:49Z" uid="5245700" user="georges90" changeset="55575325" lat="36.8833939" lon="-76.3008761"/>
+  <node id="5348961045" version="1" timestamp="2021-04-15T01:52:49Z" uid="5245700" user="georges90" changeset="55575325" lat="36.8834804" lon="-76.3008788"/>
+  <node id="5348961046" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831256" lon="-76.3050035">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961048" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8830152" lon="-76.3103133">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961049" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8830182" lon="-76.3102072"/>
+  <node id="5348961050" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8830227" lon="-76.3101098">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961051" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8830912" lon="-76.3080744">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961052" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8830966" lon="-76.3079513"/>
+  <node id="5348961053" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831004" lon="-76.3078439">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961054" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831727" lon="-76.3057008"/>
+  <node id="5348961055" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831762" lon="-76.3055955">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961056" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831946" lon="-76.3050265"/>
+  <node id="5348961057" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87533053" lat="36.8832367" lon="-76.3040185"/>
+  <node id="5348961058" version="1" timestamp="2021-04-15T01:52:49Z" uid="5245700" user="georges90" changeset="55575325" lat="36.8832512" lon="-76.3038683"/>
+  <node id="5348961059" version="1" timestamp="2021-04-15T01:52:49Z" uid="5245700" user="georges90" changeset="55575325" lat="36.8832936" lon="-76.3033567"/>
+  <node id="5348961060" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8833266" lon="-76.3024827">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="5348961061" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8833444" lon="-76.3022477">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="5348961062" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8833499" lon="-76.3021637">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961063" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.883383" lon="-76.301157">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961064" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8834169" lon="-76.3002866">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961066" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8829483" lon="-76.3102039">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961068" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831296" lon="-76.3101153">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961069" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8832079" lon="-76.3078556">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961070" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8832805" lon="-76.3056183">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961072" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87533053" lat="36.8834293" lon="-76.3025978">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961073" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8834569" lon="-76.3021682">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961074" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8829458" lon="-76.3124544"/>
+  <node id="5348961075" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8829459" lon="-76.3125768"/>
+  <node id="5348961079" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8851989" lon="-76.3125749">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5348961080" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8851942" lon="-76.3126922">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5349230500" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.8848065" lon="-76.302621">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5349230501" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859" lat="36.8848593" lon="-76.3012514">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5349230502" version="1" timestamp="2021-04-15T01:52:49Z" uid="5245700" user="georges90" changeset="55580163" lat="36.8820397" lon="-76.3000723"/>
+  <node id="5349230505" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87533053" lat="36.8820442" lon="-76.3021662">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5349230506" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87533053" lat="36.8820246" lon="-76.3023817">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5349230507" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.883025" lon="-76.3079483">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5349230510" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8830785" lon="-76.3056873">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5349241928" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8885448" lon="-76.3074852"/>
+  <node id="5349241929" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.888754" lon="-76.3076341"/>
+  <node id="5360567492" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.9023422" lon="-76.3041179"/>
+  <node id="5734970632" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.9010502" lon="-76.303767"/>
+  <node id="5734970852" version="1" timestamp="2021-04-15T01:52:49Z" uid="6066441" user="taz2015" changeset="60358049" lat="36.8819411" lon="-76.3028721"/>
+  <node id="5781497122" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8885624" lon="-76.3029265"/>
+  <node id="6161063193" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66152932" lat="36.8877378" lon="-76.3017945"/>
+  <node id="6194472184" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66152932" lat="36.884861" lon="-76.3012046"/>
+  <node id="6401567509" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8833643" lon="-76.3037654"/>
+  <node id="6401567517" version="1" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="69165724" lat="36.8832966" lon="-76.3032847"/>
+  <node id="6407107458" version="1" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="69240317" lat="36.8856395" lon="-76.2994264"/>
+  <node id="6407107952" version="1" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="69240345" lat="36.8848458" lon="-76.3017038"/>
+  <node id="6407107955" version="1" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="69240345" lat="36.885557" lon="-76.301741"/>
+  <node id="6407220756" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8874962" lon="-76.3086573"/>
+  <node id="6407220759" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8875108" lon="-76.3082174"/>
+  <node id="6407220760" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8875126" lon="-76.3081391"/>
+  <node id="6407220763" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8874295" lon="-76.3106896"/>
+  <node id="7042987788" version="1" timestamp="2021-04-15T01:52:49Z" uid="10173438" user="mahmedqg" changeset="78129145" lat="36.8870435" lon="-76.3011064"/>
+  <node id="7042987796" version="1" timestamp="2021-04-15T01:52:49Z" uid="10173438" user="mahmedqg" changeset="78129145" lat="36.8870213" lon="-76.3016422"/>
+  <node id="7042987800" version="1" timestamp="2021-04-15T01:52:49Z" uid="10173438" user="mahmedqg" changeset="78129145" lat="36.8877415" lon="-76.3016878"/>
+  <node id="7042987813" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8883217" lon="-76.3026672"/>
+  <node id="7042987831" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8880173" lon="-76.3025896"/>
+  <node id="7043153079" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.887473" lon="-76.309367"/>
+  <node id="7043268269" version="1" timestamp="2021-04-15T01:52:49Z" uid="10192114" user="dviraja" changeset="78136612" lat="36.8821634" lon="-76.3021792"/>
+  <node id="7043268273" version="1" timestamp="2021-04-15T01:52:49Z" uid="10192114" user="dviraja" changeset="78136612" lat="36.8819849" lon="-76.301583"/>
+  <node id="7043268276" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87537513" lat="36.8825787" lon="-76.3022048"/>
+  <node id="7094827167" version="1" timestamp="2021-04-15T01:52:49Z" uid="10480290" user="somanch" changeset="78998200" lat="36.8872291" lon="-76.2947324"/>
+  <node id="7094827170" version="1" timestamp="2021-04-15T01:52:49Z" uid="10480290" user="somanch" changeset="78998200" lat="36.8872243" lon="-76.2948837"/>
+  <node id="7180437747" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8832433" lon="-76.3067755"/>
+  <node id="7631028924" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8800341" lon="-76.3124192">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7682820781" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87533053" lat="36.8832698" lon="-76.3037079"/>
+  <node id="7682892886" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8819002" lon="-76.3022777">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7683649862" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87540658" lat="36.8876742" lon="-76.3149301"/>
+  <node id="7683649863" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87540658" lat="36.8877464" lon="-76.3127663"/>
+  <node id="7683649875" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87541252" lat="36.8971204" lon="-76.3134358">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="7683659391" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051" lat="36.8873643" lon="-76.312627">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7683753078" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87541252" lat="36.8972225" lon="-76.3134063"/>
+  <node id="7683753079" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87541252" lat="36.8970105" lon="-76.3133722"/>
+  <node id="7684143865" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8911384" lon="-76.3038297">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7684143868" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8897967" lon="-76.3033046"/>
+  <node id="7684143869" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049" lat="36.8876535" lon="-76.3053944"/>
+  <node id="7685269355" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87560099" lat="36.8910825" lon="-76.3049308">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7685310507" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87560099" lat="36.8876232" lon="-76.3058507">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7687884068" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87605343" lat="36.886688" lon="-76.3127121">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7688164174" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8830956" lon="-76.3056678"/>
+  <node id="7688164175" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831243" lon="-76.3056442"/>
+  <node id="7688164176" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831416" lon="-76.3056288"/>
+  <node id="7688164177" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8830944" lon="-76.3057167"/>
+  <node id="7688164178" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831164" lon="-76.3057361"/>
+  <node id="7688164179" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831352" lon="-76.3057583"/>
+  <node id="7688164180" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8831443" lon="-76.305775"/>
+  <node id="7688164181" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.883168" lon="-76.3058487"/>
+  <node id="7688180995" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8829419" lon="-76.3123444">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7688180996" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8830356" lon="-76.3123519">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7688180997" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8830581" lon="-76.3117435"/>
+  <node id="7688180998" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8830823" lon="-76.3114801"/>
+  <node id="7688180999" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8844386" lon="-76.312652">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7688181000" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8844457" lon="-76.3125335">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7688181001" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262" lat="36.8873691" lon="-76.3128628">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7689360426" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8819694" lon="-76.3020916">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7689360427" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8819567" lon="-76.302447">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7689360428" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8814808" lon="-76.3022133"/>
+  <node id="7689360429" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.881579" lon="-76.3022478"/>
+  <node id="7689360430" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979" lat="36.8813286" lon="-76.3021918"/>
+  <node id="7691844447" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87659176" lat="36.8795038" lon="-76.3037876"/>
+  <node id="7999281001" version="1" timestamp="2021-04-15T01:52:49Z" uid="10159521" user="gundanar" changeset="92337691" lat="36.8818689" lon="-76.3050004"/>
+  <node id="7999281004" version="1" timestamp="2021-04-15T01:52:49Z" uid="10159521" user="gundanar" changeset="92337691" lat="36.8825706" lon="-76.3052196"/>
+  <node id="8157319922" version="1" timestamp="2021-04-15T01:52:49Z" uid="10480289" user="attaragi" changeset="94687960" lat="36.8945163" lon="-76.3136201"/>
+  <node id="8157652435" version="1" timestamp="2021-04-15T01:52:49Z" uid="11705763" user="vddontha" changeset="94695505" lat="36.879962" lon="-76.3039437"/>
+  <node id="8157652436" version="1" timestamp="2021-04-15T01:52:49Z" uid="11705763" user="vddontha" changeset="94695505" lat="36.880952" lon="-76.3042824"/>
+  <node id="8309100653" version="1" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="97258867" lat="36.8835458" lon="-76.2977433"/>
+  <way id="20587106" version="14" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979">
+    <nd ref="221034508"/>
+    <nd ref="5348961052"/>
+    <nd ref="5349230507"/>
+    <nd ref="221034502"/>
+    <nd ref="221034501"/>
+    <nd ref="221034498"/>
+    <nd ref="221034494"/>
+    <nd ref="221034485"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Elkhorn Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Elkhorn"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20588944" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051">
+    <nd ref="221249162"/>
+    <nd ref="221249170"/>
+    <nd ref="221249174"/>
+    <nd ref="5349241928"/>
+    <nd ref="221249182"/>
+    <nd ref="5349241929"/>
+    <nd ref="221058179"/>
+    <nd ref="221058202"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Quarantine Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Quarantine"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20598112" version="27" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262">
+    <nd ref="221200174"/>
+    <nd ref="3993792894"/>
+    <nd ref="4001589254"/>
+    <nd ref="3305998390"/>
+    <nd ref="6161063193"/>
+    <nd ref="7042987800"/>
+    <nd ref="4232472101"/>
+    <nd ref="1604013724"/>
+    <nd ref="4232472106"/>
+    <nd ref="221051742"/>
+    <nd ref="221051735"/>
+    <nd ref="221051701"/>
+    <nd ref="1604027281"/>
+    <nd ref="1604027290"/>
+    <nd ref="1604027292"/>
+    <nd ref="1604027294"/>
+    <nd ref="221206106"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="49th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="49th"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20598181" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051">
+    <nd ref="221141807"/>
+    <nd ref="221058179"/>
+    <nd ref="221141820"/>
+    <nd ref="221141823"/>
+    <nd ref="221141826"/>
+    <nd ref="221141830"/>
+    <nd ref="221141834"/>
+    <nd ref="221141838"/>
+    <nd ref="221141844"/>
+    <nd ref="221141852"/>
+    <nd ref="221141856"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Longwood Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Longwood"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20598770" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87540658">
+    <nd ref="221098663"/>
+    <nd ref="7683649862"/>
+    <nd ref="221144765"/>
+    <nd ref="221051210"/>
+    <nd ref="221144770"/>
+    <nd ref="221141852"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Woodbury Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Woodbury"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20602702" version="7" timestamp="2021-04-15T01:52:49Z" uid="10480289" user="attaragi" changeset="94687960">
+    <nd ref="221141844"/>
+    <nd ref="221058169"/>
+    <nd ref="221113772"/>
+    <nd ref="221128085"/>
+    <nd ref="221128035"/>
+    <nd ref="221056830"/>
+    <nd ref="221169848"/>
+    <nd ref="221053458"/>
+    <nd ref="221114992"/>
+    <nd ref="221128016"/>
+    <nd ref="221059529"/>
+    <nd ref="221059247"/>
+    <nd ref="221081614"/>
+    <nd ref="221081582"/>
+    <nd ref="221081529"/>
+    <nd ref="8157319922"/>
+    <nd ref="221057582"/>
+    <nd ref="221169871"/>
+    <nd ref="221116160"/>
+    <nd ref="221062550"/>
+    <nd ref="221061739"/>
+    <nd ref="7683753079"/>
+    <nd ref="7683649875"/>
+    <nd ref="7683753078"/>
+    <nd ref="221169890"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Studeley Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Studeley"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20603377" version="7" timestamp="2021-04-15T01:52:49Z" uid="10480290" user="somanch" changeset="78998200">
+    <nd ref="221173861"/>
+    <nd ref="221173865"/>
+    <nd ref="7094827167"/>
+    <nd ref="7094827170"/>
+    <nd ref="221173871"/>
+    <nd ref="221173898"/>
+    <nd ref="1604027276"/>
+    <nd ref="221051708"/>
+    <nd ref="221051730"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West 48th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="48th"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20603382" version="10" timestamp="2021-04-15T01:52:49Z" uid="10173438" user="mahmedqg" changeset="78129145">
+    <nd ref="221173920"/>
+    <nd ref="7042987788"/>
+    <nd ref="7042987796"/>
+    <nd ref="2065015391"/>
+    <nd ref="3469861683"/>
+    <nd ref="221173936"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West 48th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="48th"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20604684" version="4" timestamp="2021-04-15T01:52:49Z" uid="10159521" user="gundanar" changeset="92337691">
+    <nd ref="221182030"/>
+    <nd ref="7999281001"/>
+    <nd ref="221182033"/>
+    <nd ref="221034501"/>
+    <nd ref="221182044"/>
+    <nd ref="221182047"/>
+    <nd ref="221182050"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West 41st Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="41st"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20606724" version="3" timestamp="2021-04-15T01:52:49Z" uid="451693" user="bot-mode" changeset="14517038">
+    <nd ref="221173840"/>
+    <nd ref="221198903"/>
+    <nd ref="221098658"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kenova Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Kenova"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20606808" version="10" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859">
+    <nd ref="221199885"/>
+    <nd ref="221199890"/>
+    <nd ref="221199908"/>
+    <nd ref="3038535116"/>
+    <nd ref="221058683"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West 45th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="45th"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20606837" version="24" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049">
+    <nd ref="1419056407"/>
+    <nd ref="221167812"/>
+    <nd ref="5360567492"/>
+    <nd ref="221184805"/>
+    <nd ref="5734970632"/>
+    <nd ref="221095443"/>
+    <nd ref="221137135"/>
+    <nd ref="221200317"/>
+    <nd ref="221200300"/>
+    <nd ref="221188709"/>
+    <nd ref="221200297"/>
+    <nd ref="221171595"/>
+    <nd ref="221200293"/>
+    <nd ref="221200291"/>
+    <nd ref="221200288"/>
+    <nd ref="221200282"/>
+    <nd ref="221200276"/>
+    <nd ref="221184909"/>
+    <nd ref="221144187"/>
+    <nd ref="221144134"/>
+    <nd ref="221150586"/>
+    <nd ref="221150528"/>
+    <nd ref="221200270"/>
+    <nd ref="221200263"/>
+    <nd ref="221200259"/>
+    <nd ref="221200253"/>
+    <nd ref="221200246"/>
+    <nd ref="221200242"/>
+    <nd ref="221200235"/>
+    <nd ref="221200230"/>
+    <nd ref="221200227"/>
+    <nd ref="221200216"/>
+    <nd ref="7684143868"/>
+    <nd ref="221200205"/>
+    <nd ref="221200201"/>
+    <nd ref="221200197"/>
+    <nd ref="1603985181"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Hampton Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="VA 337"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Hampton"/>
+    <tag k="tiger:name_base_1" v="State Route 337"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23505"/>
+    <tag k="tiger:zip_left_1" v="23505"/>
+    <tag k="tiger:zip_left_2" v="23505"/>
+  </way>
+  <way id="20608678" version="10" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="66151859">
+    <nd ref="221227048"/>
+    <nd ref="221217150"/>
+    <nd ref="221206099"/>
+    <nd ref="1604027275"/>
+    <nd ref="3038535119"/>
+    <nd ref="221058691"/>
+    <nd ref="3038535118"/>
+    <nd ref="221111913"/>
+    <nd ref="2065015362"/>
+    <nd ref="3469861673"/>
+    <nd ref="221111590"/>
+    <nd ref="221111585"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="West 47th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="47th"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20608905" version="11" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979">
+    <nd ref="221114391"/>
+    <nd ref="221229580"/>
+    <nd ref="221229588"/>
+    <nd ref="221044407"/>
+    <nd ref="221110898"/>
+    <nd ref="221182050"/>
+    <nd ref="221128453"/>
+    <nd ref="221051132"/>
+    <nd ref="5348961074"/>
+    <nd ref="221109018"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Powhatan Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Powhatan"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20610023" version="7" timestamp="2021-04-15T01:52:49Z" uid="10159521" user="gundanar" changeset="92337691">
+    <nd ref="221200124"/>
+    <nd ref="1604042862"/>
+    <nd ref="1603816170"/>
+    <nd ref="221240477"/>
+    <nd ref="221240479"/>
+    <nd ref="7999281004"/>
+    <nd ref="221240482"/>
+    <nd ref="221240490"/>
+    <nd ref="221034502"/>
+    <nd ref="221240493"/>
+    <nd ref="221240498"/>
+    <nd ref="221240500"/>
+    <nd ref="221234521"/>
+    <nd ref="221240503"/>
+    <nd ref="221051132"/>
+    <nd ref="221051128"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West 42nd Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="42nd"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20610810" version="3" timestamp="2021-04-15T01:52:49Z" uid="451693" user="bot-mode" changeset="14482236">
+    <nd ref="221141826"/>
+    <nd ref="221251665"/>
+    <nd ref="221251673"/>
+    <nd ref="221208389"/>
+    <nd ref="221231757"/>
+    <nd ref="221150626"/>
+    <nd ref="221251061"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Argall Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Argall"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20612051" version="9" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="69240345">
+    <nd ref="221268486"/>
+    <nd ref="221268489"/>
+    <nd ref="221268495"/>
+    <nd ref="221268506"/>
+    <nd ref="221217147"/>
+    <nd ref="221206089"/>
+    <nd ref="6407107458"/>
+    <nd ref="1604027246"/>
+    <nd ref="1604027245"/>
+    <nd ref="3038535117"/>
+    <nd ref="221058687"/>
+    <nd ref="221111908"/>
+    <nd ref="6407107955"/>
+    <nd ref="3469861658"/>
+    <nd ref="221200792"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West 46th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="46th"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="20612772" version="15" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262">
+    <nd ref="221200128"/>
+    <nd ref="5348961072"/>
+    <nd ref="5348961041"/>
+    <nd ref="1604068521"/>
+    <nd ref="6401567509"/>
+    <nd ref="221050460"/>
+    <nd ref="1603786866"/>
+    <nd ref="5348961070"/>
+    <nd ref="221047697"/>
+    <nd ref="7180437747"/>
+    <nd ref="5348961069"/>
+    <nd ref="221034508"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="West 43rd Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="43rd"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20613000" version="6" timestamp="2021-04-15T01:52:49Z" uid="11705763" user="vddontha" changeset="94695505">
+    <nd ref="221144905"/>
+    <nd ref="221280312"/>
+    <nd ref="221205768"/>
+    <nd ref="221280315"/>
+    <nd ref="221045737"/>
+    <nd ref="221280320"/>
+    <nd ref="7691844447"/>
+    <nd ref="221156849"/>
+    <nd ref="8157652435"/>
+    <nd ref="221257209"/>
+    <nd ref="8157652436"/>
+    <nd ref="221280326"/>
+    <nd ref="221182030"/>
+    <nd ref="221240479"/>
+    <nd ref="5348961046"/>
+    <nd ref="5348961056"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bowdens Ferry Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Bowdens Ferry"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20613106" version="6" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262">
+    <nd ref="221205777"/>
+    <nd ref="221156862"/>
+    <nd ref="221257212"/>
+    <nd ref="221281390"/>
+    <nd ref="221182033"/>
+    <nd ref="221240482"/>
+    <nd ref="5349230510"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bluestone Avenue"/>
+    <tag k="oneway" v="no"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Bluestone"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20613112" version="10" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87560099">
+    <nd ref="221278054"/>
+    <nd ref="221281727"/>
+    <nd ref="1603997128"/>
+    <nd ref="221281730"/>
+    <nd ref="221281732"/>
+    <nd ref="4100881807"/>
+    <nd ref="4100881808"/>
+    <nd ref="221141807"/>
+    <nd ref="221281765"/>
+    <nd ref="1603985219"/>
+    <nd ref="221253999"/>
+    <nd ref="221281790"/>
+    <nd ref="1603985222"/>
+    <nd ref="1603985226"/>
+    <nd ref="7685269355"/>
+    <nd ref="221160404"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bluestone Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Bluestone"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="20613167" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051">
+    <nd ref="221229611"/>
+    <nd ref="221282549"/>
+    <nd ref="4100881803"/>
+    <nd ref="221282553"/>
+    <nd ref="221282557"/>
+    <nd ref="4100881805"/>
+    <nd ref="221249170"/>
+    <nd ref="221110597"/>
+    <nd ref="221281727"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Melrose Parkway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Melrose"/>
+    <tag k="tiger:name_type" v="Pky"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="20613169" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051">
+    <nd ref="221281730"/>
+    <nd ref="221249174"/>
+    <nd ref="4100881806"/>
+    <nd ref="4100881804"/>
+    <nd ref="221282586"/>
+    <nd ref="221229611"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Melrose Parkway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Melrose"/>
+    <tag k="tiger:name_type" v="Pky"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="147197787" version="3" timestamp="2021-04-15T01:52:49Z" uid="451693" user="bot-mode" changeset="14482236">
+    <nd ref="221173836"/>
+    <nd ref="221173840"/>
+    <nd ref="221173844"/>
+    <nd ref="221173848"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West 48th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="48th"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="288495748" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979">
+    <nd ref="221182003"/>
+    <nd ref="7682892886"/>
+    <nd ref="7689360429"/>
+    <nd ref="7689360428"/>
+    <nd ref="7689360430"/>
+    <nd ref="221200113"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="6"/>
+    <tag k="name" v="Hampton Boulevard"/>
+    <tag k="ref" v="VA 337"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Hampton"/>
+    <tag k="tiger:name_base_1" v="State Route 337"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23505"/>
+    <tag k="tiger:zip_left_1" v="23505"/>
+    <tag k="tiger:zip_left_2" v="23505"/>
+  </way>
+  <way id="288495751" version="17" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049">
+    <nd ref="221182003"/>
+    <nd ref="5349230505"/>
+    <nd ref="7043268269"/>
+    <nd ref="7043268276"/>
+    <nd ref="221200781"/>
+    <nd ref="5348961061"/>
+    <nd ref="221200783"/>
+    <nd ref="3469861630"/>
+    <nd ref="3469861641"/>
+    <nd ref="221199923"/>
+    <nd ref="3469861650"/>
+    <nd ref="221200792"/>
+    <nd ref="3469861670"/>
+    <nd ref="221111590"/>
+    <nd ref="3469861676"/>
+    <nd ref="2065015380"/>
+    <nd ref="221173936"/>
+    <nd ref="221200795"/>
+    <nd ref="4001593559"/>
+    <nd ref="3993792894"/>
+    <nd ref="3469861898"/>
+    <nd ref="7042987831"/>
+    <nd ref="7042987813"/>
+    <nd ref="1603985180"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Hampton Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="VA 337"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Hampton"/>
+    <tag k="tiger:name_base_1" v="State Route 337"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="397372834" version="4" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87540658">
+    <nd ref="221229609"/>
+    <nd ref="7683649863"/>
+    <nd ref="221229611"/>
+    <nd ref="221051219"/>
+    <nd ref="221141838"/>
+    <nd ref="221229614"/>
+    <nd ref="221229616"/>
+    <nd ref="221229620"/>
+    <nd ref="221229623"/>
+    <nd ref="221208407"/>
+    <nd ref="221229626"/>
+    <nd ref="221229629"/>
+    <nd ref="221150670"/>
+    <nd ref="221229632"/>
+    <nd ref="221229633"/>
+    <nd ref="221229635"/>
+    <nd ref="221229637"/>
+    <nd ref="221229640"/>
+    <nd ref="221229644"/>
+    <nd ref="221229648"/>
+    <nd ref="221229651"/>
+    <nd ref="221061745"/>
+    <nd ref="221115199"/>
+    <nd ref="221059724"/>
+    <nd ref="221081489"/>
+    <nd ref="221081477"/>
+    <nd ref="221229654"/>
+    <nd ref="221081456"/>
+    <nd ref="221081437"/>
+    <nd ref="221229659"/>
+    <nd ref="221229661"/>
+    <nd ref="221137146"/>
+    <nd ref="221229663"/>
+    <nd ref="221137221"/>
+    <nd ref="221202207"/>
+    <nd ref="221116912"/>
+    <nd ref="221176719"/>
+    <nd ref="221229665"/>
+    <nd ref="221229668"/>
+    <nd ref="221229672"/>
+    <nd ref="221229675"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Powhatan Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Powhatan"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="397372840" version="6" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262">
+    <nd ref="221173836"/>
+    <nd ref="221229562"/>
+    <nd ref="221087453"/>
+    <nd ref="5348961080"/>
+    <nd ref="221229559"/>
+    <nd ref="1605070078"/>
+    <nd ref="7688180999"/>
+    <nd ref="1605070070"/>
+    <nd ref="1605070054"/>
+    <nd ref="3469861620"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Powhatan Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Powhatan"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="408069063" version="1" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499">
+    <nd ref="221144765"/>
+    <nd ref="221282533"/>
+    <nd ref="221282538"/>
+    <nd ref="221229611"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Melrose Parkway"/>
+    <tag k="tiger:cfcc" v="A45"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Melrose"/>
+    <tag k="tiger:name_type" v="Pky"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="554239682" version="5" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="97258867">
+    <nd ref="221217137"/>
+    <nd ref="8309100653"/>
+    <nd ref="221206070"/>
+    <nd ref="3038535113"/>
+    <nd ref="221058669"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West 43rd Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="43rd"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="554239683" version="6" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262">
+    <nd ref="5348961075"/>
+    <nd ref="5348961074"/>
+    <nd ref="7688180995"/>
+    <nd ref="5348961048"/>
+    <nd ref="5348961049"/>
+    <nd ref="5348961050"/>
+    <nd ref="5348961051"/>
+    <nd ref="5348961052"/>
+    <nd ref="5348961053"/>
+    <nd ref="7688164181"/>
+    <nd ref="5348961054"/>
+    <nd ref="5348961055"/>
+    <nd ref="5348961056"/>
+    <nd ref="5348961057"/>
+    <nd ref="5348961058"/>
+    <nd ref="7682820781"/>
+    <nd ref="5348961059"/>
+    <nd ref="6401567517"/>
+    <nd ref="5348961040"/>
+    <nd ref="5348961038"/>
+    <nd ref="5348961060"/>
+    <nd ref="5348961061"/>
+    <nd ref="5348961062"/>
+    <nd ref="5348961042"/>
+    <nd ref="5348961063"/>
+    <nd ref="5348961044"/>
+    <nd ref="5348961064"/>
+    <nd ref="221058669"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="West 43rd Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="661657689" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979">
+    <nd ref="221181984"/>
+    <nd ref="5349230502"/>
+    <nd ref="221058663"/>
+    <nd ref="221049864"/>
+    <nd ref="7043268273"/>
+    <nd ref="221051499"/>
+    <nd ref="7689360426"/>
+    <nd ref="221182003"/>
+    <nd ref="7689360427"/>
+    <nd ref="1604042844"/>
+    <nd ref="5734970852"/>
+    <nd ref="221182022"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="West 41st Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="41st"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="661659646" version="3" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="69240345">
+    <nd ref="221058683"/>
+    <nd ref="221049958"/>
+    <nd ref="6194472184"/>
+    <nd ref="5349230501"/>
+    <nd ref="6407107952"/>
+    <nd ref="3469861646"/>
+    <nd ref="221199923"/>
+    <nd ref="221199934"/>
+    <nd ref="5349230500"/>
+    <nd ref="1604097758"/>
+    <nd ref="1604097756"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="West 45th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="45th"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="690905315" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262">
+    <nd ref="221034508"/>
+    <nd ref="5348961037"/>
+    <nd ref="5348961068"/>
+    <nd ref="221234527"/>
+    <nd ref="5348961036"/>
+    <nd ref="7688180998"/>
+    <nd ref="7688180997"/>
+    <nd ref="7688180996"/>
+    <nd ref="221109018"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="West 43rd Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="43rd"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="690905317" version="1" timestamp="2021-04-15T01:52:49Z" uid="8107451" user="njtbusfan" changeset="70389228">
+    <nd ref="221200128"/>
+    <nd ref="5348961060"/>
+    <nd ref="3469861624"/>
+    <nd ref="221200124"/>
+    <nd ref="5349230506"/>
+    <nd ref="221182003"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Hampton Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="VA 337"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Hampton"/>
+    <tag k="tiger:name_base_1" v="State Route 337"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23505"/>
+    <tag k="tiger:zip_left_1" v="23505"/>
+    <tag k="tiger:zip_left_2" v="23505"/>
+  </way>
+  <way id="690905318" version="1" timestamp="2021-04-15T01:52:49Z" uid="8107451" user="njtbusfan" changeset="70389228">
+    <nd ref="221200174"/>
+    <nd ref="3993792890"/>
+    <nd ref="221200166"/>
+    <nd ref="221200158"/>
+    <nd ref="221200154"/>
+    <nd ref="221111585"/>
+    <nd ref="3469861671"/>
+    <nd ref="3469861649"/>
+    <nd ref="221199934"/>
+    <nd ref="3469861642"/>
+    <nd ref="3469861629"/>
+    <nd ref="221200128"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Hampton Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="VA 337"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Hampton"/>
+    <tag k="tiger:name_base_1" v="State Route 337"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23505"/>
+    <tag k="tiger:zip_left_1" v="23505"/>
+    <tag k="tiger:zip_left_2" v="23505"/>
+  </way>
+  <way id="690905319" version="6" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87577051">
+    <nd ref="221229609"/>
+    <nd ref="7683659391"/>
+    <nd ref="221051657"/>
+    <nd ref="6407220763"/>
+    <nd ref="7043153079"/>
+    <nd ref="6407220756"/>
+    <nd ref="6407220759"/>
+    <nd ref="6407220760"/>
+    <nd ref="221249162"/>
+    <nd ref="1604097973"/>
+    <nd ref="221110559"/>
+    <nd ref="1604097974"/>
+    <nd ref="221278054"/>
+    <nd ref="7685310507"/>
+    <nd ref="7684143869"/>
+    <nd ref="3469861690"/>
+    <nd ref="1603997088"/>
+    <nd ref="1603997090"/>
+    <nd ref="4001593557"/>
+    <nd ref="221200174"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="49th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="49th"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="690905321" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262">
+    <nd ref="221229609"/>
+    <nd ref="7688181001"/>
+    <nd ref="221098658"/>
+    <nd ref="221098663"/>
+    <nd ref="221141568"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="49th Street"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="49th"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="690905322" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87605343">
+    <nd ref="221173836"/>
+    <nd ref="7687884068"/>
+    <nd ref="221229604"/>
+    <nd ref="221229609"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Powhatan Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Powhatan"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="690905323" version="1" timestamp="2021-04-15T01:52:49Z" uid="8107451" user="njtbusfan" changeset="70389228">
+    <nd ref="221109018"/>
+    <nd ref="221109016"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="West 43rd Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="690905324" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262">
+    <nd ref="221109018"/>
+    <nd ref="3469861621"/>
+    <nd ref="1605070056"/>
+    <nd ref="221229590"/>
+    <nd ref="7688181000"/>
+    <nd ref="1605070080"/>
+    <nd ref="221229591"/>
+    <nd ref="5348961079"/>
+    <nd ref="221229593"/>
+    <nd ref="221229595"/>
+    <nd ref="221173836"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Powhatan Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Powhatan"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="733932630" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262">
+    <nd ref="221156882"/>
+    <nd ref="221234514"/>
+    <nd ref="221234518"/>
+    <nd ref="221182047"/>
+    <nd ref="221234521"/>
+    <nd ref="5348961066"/>
+    <nd ref="5348961049"/>
+    <nd ref="221234527"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Parker Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Parker"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="733932631" version="3" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87620979">
+    <nd ref="221109016"/>
+    <nd ref="5348961075"/>
+    <nd ref="221051128"/>
+    <nd ref="221124341"/>
+    <nd ref="221128449"/>
+    <nd ref="221110893"/>
+    <nd ref="7631028924"/>
+    <nd ref="221080000"/>
+    <nd ref="221229556"/>
+    <nd ref="221114391"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Powhatan Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Powhatan"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="733932632" version="1" timestamp="2021-04-15T01:52:49Z" uid="1732956" user="Neebski" changeset="75605339">
+    <nd ref="3469861620"/>
+    <nd ref="221109016"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Powhatan Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Powhatan"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="814408481" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049">
+    <nd ref="1603985188"/>
+    <nd ref="221060900"/>
+    <nd ref="221200812"/>
+    <nd ref="221200816"/>
+    <nd ref="221200821"/>
+    <nd ref="7684143865"/>
+    <nd ref="221200826"/>
+    <nd ref="221200830"/>
+    <nd ref="221200833"/>
+    <nd ref="221200837"/>
+    <nd ref="221200842"/>
+    <nd ref="221200845"/>
+    <nd ref="221200850"/>
+    <nd ref="221200854"/>
+    <nd ref="221200859"/>
+    <nd ref="221150532"/>
+    <nd ref="221150583"/>
+    <nd ref="221144130"/>
+    <nd ref="221144191"/>
+    <nd ref="221184905"/>
+    <nd ref="221200862"/>
+    <nd ref="221200863"/>
+    <nd ref="221200864"/>
+    <nd ref="221200870"/>
+    <nd ref="221200875"/>
+    <nd ref="221200879"/>
+    <nd ref="221200883"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Hampton Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="VA 337"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Hampton"/>
+    <tag k="tiger:name_base_1" v="State Route 337"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="814408482" version="1" timestamp="2021-04-15T01:52:49Z" uid="10127762" user="daggarw" changeset="86432590">
+    <nd ref="1603985180"/>
+    <nd ref="1603985188"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Hampton Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="VA 337"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Hampton"/>
+    <tag k="tiger:name_base_1" v="State Route 337"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="814408484" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049">
+    <nd ref="1603985181"/>
+    <nd ref="5781497122"/>
+    <nd ref="221200183"/>
+    <nd ref="3469861899"/>
+    <nd ref="221200174"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="Hampton Boulevard"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="VA 337"/>
+    <tag k="tiger:cfcc" v="A35"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Hampton"/>
+    <tag k="tiger:name_base_1" v="State Route 337"/>
+    <tag k="tiger:name_type" v="Blvd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23505"/>
+    <tag k="tiger:zip_left_1" v="23505"/>
+    <tag k="tiger:zip_left_2" v="23505"/>
+  </way>
+  <way id="822871053" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87533053">
+    <nd ref="221058669"/>
+    <nd ref="221049885"/>
+    <nd ref="5348961045"/>
+    <nd ref="5348961039"/>
+    <nd ref="5348961043"/>
+    <nd ref="5348961073"/>
+    <nd ref="221200783"/>
+    <nd ref="221200128"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="West 43rd Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="43rd"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="823495136" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262">
+    <nd ref="7688164181"/>
+    <nd ref="7688164180"/>
+    <nd ref="7688164179"/>
+    <nd ref="7688164178"/>
+    <nd ref="7688164177"/>
+    <nd ref="5349230510"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bluestone Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Bluestone"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <way id="823495137" version="1" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87609262">
+    <nd ref="5349230510"/>
+    <nd ref="7688164174"/>
+    <nd ref="7688164175"/>
+    <nd ref="7688164176"/>
+    <nd ref="5348961055"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bluestone Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Norfolk, VA"/>
+    <tag k="tiger:name_base" v="Bluestone"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="23508"/>
+    <tag k="tiger:zip_right" v="23508"/>
+  </way>
+  <relation id="392913" version="5" timestamp="2021-04-15T01:52:49Z" uid="22925" user="ELadner" changeset="62326345">
+    <member type="way" ref="48778238" role="outer"/>
+    <member type="way" ref="623208299" role="outer"/>
+    <member type="way" ref="48778221" role="outer"/>
+    <member type="way" ref="623208270" role="outer"/>
+    <member type="way" ref="47296446" role="inner"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1542165" version="58" timestamp="2021-04-15T01:52:49Z" uid="6065836" user="gkitt001" changeset="89059173">
+    <member type="way" ref="99319427" role=""/>
+    <member type="way" ref="198255722" role=""/>
+    <member type="way" ref="763348821" role=""/>
+    <member type="way" ref="763348826" role=""/>
+    <member type="way" ref="198255727" role=""/>
+    <member type="way" ref="20638183" role=""/>
+    <member type="way" ref="734753471" role=""/>
+    <member type="way" ref="20633440" role=""/>
+    <member type="way" ref="294874966" role=""/>
+    <member type="way" ref="767767622" role=""/>
+    <member type="way" ref="754167275" role=""/>
+    <member type="way" ref="767767623" role=""/>
+    <member type="way" ref="378016174" role="forward"/>
+    <member type="way" ref="711325288" role="forward"/>
+    <member type="way" ref="711325290" role="forward"/>
+    <member type="way" ref="378016253" role="forward"/>
+    <member type="way" ref="307093345" role="forward"/>
+    <member type="way" ref="48765698" role="forward"/>
+    <member type="way" ref="692049494" role="forward"/>
+    <member type="way" ref="307093344" role="forward"/>
+    <member type="way" ref="692049552" role="forward"/>
+    <member type="way" ref="583085849" role="forward"/>
+    <member type="way" ref="583085851" role="forward"/>
+    <member type="way" ref="20598303" role="forward"/>
+    <member type="way" ref="307093351" role="forward"/>
+    <member type="way" ref="669616380" role="forward"/>
+    <member type="way" ref="583085860" role="forward"/>
+    <member type="way" ref="626369307" role="forward"/>
+    <member type="way" ref="690966822" role="forward"/>
+    <member type="way" ref="690966821" role="forward"/>
+    <member type="way" ref="626369306" role="forward"/>
+    <member type="way" ref="47973217" role="forward"/>
+    <member type="way" ref="47973218" role="forward"/>
+    <member type="way" ref="688486708" role="forward"/>
+    <member type="way" ref="711325291" role="forward"/>
+    <member type="way" ref="711325292" role="forward"/>
+    <member type="way" ref="586454043" role="forward"/>
+    <member type="way" ref="586454044" role="forward"/>
+    <member type="way" ref="307093346" role="forward"/>
+    <member type="way" ref="692049561" role="forward"/>
+    <member type="way" ref="583085848" role="forward"/>
+    <member type="way" ref="692049556" role="forward"/>
+    <member type="way" ref="583085846" role="forward"/>
+    <member type="way" ref="48765697" role="forward"/>
+    <member type="way" ref="307093350" role="forward"/>
+    <member type="way" ref="669616381" role="forward"/>
+    <member type="way" ref="20577225" role="forward"/>
+    <member type="way" ref="690966820" role="forward"/>
+    <member type="way" ref="47973211" role="forward"/>
+    <member type="way" ref="626369298" role="forward"/>
+    <member type="way" ref="626369299" role="forward"/>
+    <member type="way" ref="37849442" role="forward"/>
+    <member type="way" ref="108632735" role=""/>
+    <member type="way" ref="47972893" role="forward"/>
+    <member type="way" ref="47972889" role="forward"/>
+    <member type="way" ref="20594903" role="forward"/>
+    <member type="way" ref="606517614" role=""/>
+    <member type="way" ref="130346502" role=""/>
+    <member type="way" ref="582977011" role=""/>
+    <member type="way" ref="388725512" role=""/>
+    <member type="way" ref="667428322" role=""/>
+    <member type="way" ref="47473690" role=""/>
+    <member type="way" ref="384385060" role="forward"/>
+    <member type="way" ref="47473688" role="forward"/>
+    <member type="way" ref="47473687" role="forward"/>
+    <member type="way" ref="47473687" role=""/>
+    <member type="way" ref="47473680" role="forward"/>
+    <member type="way" ref="47473685" role="forward"/>
+    <member type="way" ref="754141483" role=""/>
+    <member type="way" ref="754141486" role=""/>
+    <member type="way" ref="822857647" role="forward"/>
+    <member type="way" ref="47473678" role="forward"/>
+    <member type="way" ref="47972647" role=""/>
+    <member type="way" ref="47972648" role=""/>
+    <member type="way" ref="47972876" role=""/>
+    <member type="way" ref="20609690" role=""/>
+    <member type="way" ref="20592320" role=""/>
+    <member type="way" ref="108632453" role="forward"/>
+    <member type="way" ref="47972880" role="forward"/>
+    <member type="way" ref="20592412" role="forward"/>
+    <member type="way" ref="183009923" role="forward"/>
+    <member type="way" ref="183009921" role="forward"/>
+    <member type="way" ref="47972868" role="forward"/>
+    <member type="way" ref="37885471" role="forward"/>
+    <member type="way" ref="37885470" role="forward"/>
+    <member type="way" ref="47972867" role="forward"/>
+    <member type="way" ref="37909776" role="forward"/>
+    <member type="way" ref="458779877" role="forward"/>
+    <member type="way" ref="458779876" role="forward"/>
+    <member type="way" ref="37887748" role="forward"/>
+    <member type="way" ref="20605966" role="forward"/>
+    <member type="way" ref="108632580" role="forward"/>
+    <member type="way" ref="48749442" role="forward"/>
+    <member type="way" ref="47972865" role="forward"/>
+    <member type="way" ref="116044410" role="forward"/>
+    <member type="way" ref="37834156" role="forward"/>
+    <member type="way" ref="690929534" role="forward"/>
+    <member type="way" ref="47973230" role="forward"/>
+    <member type="way" ref="20599529" role="forward"/>
+    <member type="way" ref="555942059" role="forward"/>
+    <member type="way" ref="555942060" role="forward"/>
+    <member type="way" ref="47972536" role="forward"/>
+    <member type="way" ref="658056851" role="forward"/>
+    <member type="way" ref="47972481" role="forward"/>
+    <member type="way" ref="20603863" role="forward"/>
+    <member type="way" ref="429779928" role="forward"/>
+    <member type="way" ref="20595098" role="forward"/>
+    <member type="way" ref="20606896" role="forward"/>
+    <member type="way" ref="429779937" role="forward"/>
+    <member type="way" ref="20606889" role="forward"/>
+    <member type="way" ref="20590633" role="forward"/>
+    <member type="way" ref="173132119" role="forward"/>
+    <member type="way" ref="173132121" role="forward"/>
+    <member type="way" ref="822784720" role="forward"/>
+    <member type="way" ref="690905408" role="forward"/>
+    <member type="way" ref="47972846" role="forward"/>
+    <member type="way" ref="429779927" role="forward"/>
+    <member type="way" ref="47972874" role="forward"/>
+    <member type="way" ref="834801333" role="forward"/>
+    <member type="way" ref="37885492" role="forward"/>
+    <member type="way" ref="183009919" role="forward"/>
+    <member type="way" ref="183009922" role="forward"/>
+    <member type="way" ref="183009924" role="forward"/>
+    <member type="way" ref="183009920" role="forward"/>
+    <member type="way" ref="37885493" role="forward"/>
+    <member type="way" ref="20594915" role="forward"/>
+    <member type="way" ref="37916228" role="forward"/>
+    <member type="way" ref="458779878" role="forward"/>
+    <member type="way" ref="458779879" role="forward"/>
+    <member type="way" ref="47972857" role="forward"/>
+    <member type="way" ref="47972858" role="forward"/>
+    <member type="way" ref="47972854" role="forward"/>
+    <member type="way" ref="108632452" role="forward"/>
+    <member type="way" ref="20605975" role="forward"/>
+    <member type="way" ref="47972864" role="forward"/>
+    <member type="way" ref="47972852" role="forward"/>
+    <member type="way" ref="20587463" role="forward"/>
+    <member type="way" ref="690831578" role="forward"/>
+    <member type="way" ref="690929533" role="forward"/>
+    <member type="way" ref="20606327" role="forward"/>
+    <member type="way" ref="690929590" role="forward"/>
+    <member type="way" ref="47972537" role="forward"/>
+    <member type="way" ref="692049518" role="forward"/>
+    <member type="way" ref="658056856" role="forward"/>
+    <member type="way" ref="47972480" role="forward"/>
+    <member type="way" ref="20599540" role="forward"/>
+    <member type="way" ref="47972379" role=""/>
+    <member type="way" ref="786117921" role=""/>
+    <member type="way" ref="288495747" role=""/>
+    <member type="way" ref="288495749" role="forward"/>
+    <member type="way" ref="48749501" role="forward"/>
+    <member type="way" ref="48749500" role=""/>
+    <member type="way" ref="128385727" role=""/>
+    <member type="way" ref="288495750" role=""/>
+    <member type="way" ref="288495748" role=""/>
+    <member type="way" ref="288495751" role="forward"/>
+    <member type="way" ref="814408482" role="forward"/>
+    <member type="way" ref="814408481" role="forward"/>
+    <member type="way" ref="686831809" role="forward"/>
+    <member type="way" ref="823017796" role="forward"/>
+    <member type="way" ref="128385728" role="forward"/>
+    <member type="way" ref="690966936" role="forward"/>
+    <member type="way" ref="825147877" role="forward"/>
+    <member type="way" ref="370220698" role="forward"/>
+    <member type="way" ref="20611083" role="forward"/>
+    <member type="way" ref="20596780" role="forward"/>
+    <member type="way" ref="100946629" role="forward"/>
+    <member type="way" ref="690905397" role="forward"/>
+    <member type="way" ref="690966926" role="forward"/>
+    <member type="way" ref="690905348" role="forward"/>
+    <member type="way" ref="690966935" role="forward"/>
+    <member type="way" ref="733932648" role="forward"/>
+    <member type="way" ref="128385729" role="forward"/>
+    <member type="way" ref="20606837" role="forward"/>
+    <member type="way" ref="814408484" role="forward"/>
+    <member type="way" ref="690905318" role="forward"/>
+    <member type="way" ref="690905317" role="forward"/>
+    <member type="way" ref="825147874" role="forward"/>
+    <member type="way" ref="692049607" role="forward"/>
+    <member type="way" ref="370219684" role="forward"/>
+    <member type="way" ref="370219668" role="forward"/>
+    <member type="way" ref="690905347" role="forward"/>
+    <member type="way" ref="178956375" role="forward"/>
+    <member type="way" ref="690905395" role="forward"/>
+    <tag k="network" v="US:VA"/>
+    <tag k="ref" v="337"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="1967437" version="2" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499">
+    <member type="way" ref="145453660" role="outer"/>
+    <member type="way" ref="145453670" role="inner"/>
+    <tag k="access" v="university"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="name" v="Lot 7"/>
+    <tag k="parking" v="surface"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1972743" version="2" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499">
+    <member type="way" ref="146060055" role="outer"/>
+    <member type="way" ref="146060912" role="inner"/>
+    <tag k="access" v="university"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="name" v="Lot 8"/>
+    <tag k="parking" v="surface"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1974293" version="2" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499">
+    <member type="way" ref="146246284" role="outer"/>
+    <member type="way" ref="146246287" role="inner"/>
+    <tag k="access" v="university"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="name" v="Lot 32"/>
+    <tag k="parking" v="surface"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1976100" version="2" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499">
+    <member type="way" ref="146390195" role="outer"/>
+    <member type="way" ref="146390199" role="inner"/>
+    <tag k="access" v="university"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="name" v="Lot 38"/>
+    <tag k="parking" v="surface"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1979286" version="2" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499">
+    <member type="way" ref="146640462" role="outer"/>
+    <member type="way" ref="146640478" role="inner"/>
+    <member type="way" ref="146640482" role="inner"/>
+    <member type="way" ref="146640484" role="inner"/>
+    <member type="way" ref="146640495" role="inner"/>
+    <member type="way" ref="146640474" role="inner"/>
+    <member type="way" ref="146640497" role="inner"/>
+    <member type="way" ref="146640490" role="inner"/>
+    <member type="way" ref="146640487" role="inner"/>
+    <member type="way" ref="146640471" role="inner"/>
+    <member type="way" ref="146640469" role="inner"/>
+    <member type="way" ref="146640465" role="inner"/>
+    <member type="way" ref="146640483" role="inner"/>
+    <member type="way" ref="146640479" role="inner"/>
+    <member type="way" ref="146640488" role="inner"/>
+    <member type="way" ref="146640463" role="inner"/>
+    <tag k="access" v="university"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="name" v="Lot V3"/>
+    <tag k="parking" v="surface"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1979287" version="2" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499">
+    <member type="way" ref="146640459" role="outer"/>
+    <member type="way" ref="146640473" role="inner"/>
+    <member type="way" ref="146640486" role="inner"/>
+    <member type="way" ref="146640489" role="inner"/>
+    <member type="way" ref="146640494" role="inner"/>
+    <member type="way" ref="146640485" role="inner"/>
+    <member type="way" ref="146640492" role="inner"/>
+    <member type="way" ref="146640468" role="inner"/>
+    <member type="way" ref="146640467" role="inner"/>
+    <member type="way" ref="146640466" role="inner"/>
+    <member type="way" ref="146640496" role="inner"/>
+    <member type="way" ref="146640491" role="inner"/>
+    <member type="way" ref="146640470" role="inner"/>
+    <member type="way" ref="146640480" role="inner"/>
+    <member type="way" ref="146640477" role="inner"/>
+    <member type="way" ref="146640481" role="inner"/>
+    <tag k="access" v="university"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="name" v="Lot V2"/>
+    <tag k="parking" v="surface"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1979288" version="2" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499">
+    <member type="way" ref="146640454" role="outer"/>
+    <member type="way" ref="146640493" role="inner"/>
+    <member type="way" ref="146640476" role="inner"/>
+    <member type="way" ref="146640464" role="inner"/>
+    <tag k="access" v="university"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="name" v="Lot V1"/>
+    <tag k="parking" v="surface"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1987034" version="2" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499">
+    <member type="way" ref="147173310" role="outer"/>
+    <member type="way" ref="147173323" role="inner"/>
+    <member type="way" ref="147173329" role="inner"/>
+    <member type="way" ref="147173320" role="inner"/>
+    <member type="way" ref="147173314" role="inner"/>
+    <member type="way" ref="147173315" role="inner"/>
+    <member type="way" ref="147173319" role="inner"/>
+    <member type="way" ref="147173321" role="inner"/>
+    <member type="way" ref="147173322" role="inner"/>
+    <member type="way" ref="147173326" role="inner"/>
+    <member type="way" ref="147173324" role="inner"/>
+    <member type="way" ref="147173325" role="inner"/>
+    <member type="way" ref="147173317" role="inner"/>
+    <member type="way" ref="147173316" role="inner"/>
+    <member type="way" ref="147173318" role="inner"/>
+    <member type="way" ref="147173328" role="inner"/>
+    <member type="way" ref="147173327" role="inner"/>
+    <tag k="access" v="university"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="name" v="Lot 43"/>
+    <tag k="parking" v="surface"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1987334" version="2" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499">
+    <member type="way" ref="147197786" role="outer"/>
+    <member type="way" ref="147197803" role="inner"/>
+    <tag k="access" v="university"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="name" v="Lot 57"/>
+    <tag k="parking" v="surface"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1991447" version="2" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="38335499">
+    <member type="way" ref="147157313" role="outer"/>
+    <member type="way" ref="146229047" role="inner"/>
+    <tag k="area" v="yes"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="6161180" version="3" timestamp="2021-04-15T01:52:49Z" uid="364" user="Edward" changeset="58639691">
+    <member type="way" ref="412822329" role="outer"/>
+    <member type="way" ref="412822327" role="inner"/>
+    <tag k="addr:city" v="Norfolk"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="1301"/>
+    <tag k="addr:place" v="ODU"/>
+    <tag k="addr:postcode" v="23508"/>
+    <tag k="addr:state" v="VA"/>
+    <tag k="addr:street" v="49th Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Webb University Center"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="wikidata" v="Q47462581"/>
+  </relation>
+  <relation id="6161309" version="2" timestamp="2021-04-15T01:52:49Z" uid="8572763" user="John Magpayo" changeset="60877105">
+    <member type="way" ref="412828584" role="outer"/>
+    <member type="way" ref="412828586" role="inner"/>
+    <member type="way" ref="412828585" role="inner"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="4607"/>
+    <tag k="addr:place" v="ODU"/>
+    <tag k="addr:postcode" v="23529"/>
+    <tag k="addr:state" v="VA"/>
+    <tag k="addr:street" v="Hampton Boulevard"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Monarch Hall"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="8438095" version="14" timestamp="2021-04-15T01:52:49Z" uid="12443328" user="22twain" changeset="99199519">
+    <member type="way" ref="726016182" role="route"/>
+    <member type="way" ref="392778603" role="route"/>
+    <member type="way" ref="401128376" role="route"/>
+    <member type="way" ref="401128378" role="route"/>
+    <member type="way" ref="401128382" role="route"/>
+    <member type="way" ref="401128383" role="route"/>
+    <member type="way" ref="738102006" role="route"/>
+    <member type="way" ref="401128386" role="route"/>
+    <member type="way" ref="401128387" role="route"/>
+    <member type="way" ref="401128388" role="route"/>
+    <member type="way" ref="738102008" role="route"/>
+    <member type="way" ref="738102009" role="route"/>
+    <member type="way" ref="312962601" role=""/>
+    <member type="way" ref="726016183" role=""/>
+    <member type="way" ref="48749457" role="route"/>
+    <member type="way" ref="20587771" role="route"/>
+    <member type="way" ref="733932648" role="route"/>
+    <member type="way" ref="733932651" role="route"/>
+    <member type="way" ref="733932650" role="route"/>
+    <member type="way" ref="47625192" role="route"/>
+    <member type="way" ref="733932649" role="route"/>
+    <member type="way" ref="128385729" role="route"/>
+    <member type="way" ref="604384987" role="route"/>
+    <member type="way" ref="20608905" role="route"/>
+    <member type="way" ref="733932631" role="route"/>
+    <member type="way" ref="733932632" role="route"/>
+    <member type="way" ref="368030985" role="route"/>
+    <member type="way" ref="368030988" role="route"/>
+    <member type="way" ref="368030990" role="route"/>
+    <member type="way" ref="368030989" role="route"/>
+    <member type="way" ref="733932637" role="route"/>
+    <member type="way" ref="368030994" role="route"/>
+    <member type="way" ref="368030998" role="route"/>
+    <member type="way" ref="368030996" role="route"/>
+    <member type="way" ref="146216905" role="route"/>
+    <member type="way" ref="368028656" role="route"/>
+    <member type="way" ref="368028658" role="route"/>
+    <member type="way" ref="368028657" role="route"/>
+    <member type="way" ref="733932636" role="route"/>
+    <member type="way" ref="733932635" role="route"/>
+    <member type="way" ref="400596267" role="route"/>
+    <member type="way" ref="20606301" role="route"/>
+    <member type="way" ref="310311337" role="route"/>
+    <member type="way" ref="690905407" role="route"/>
+    <member type="way" ref="399259511" role="route"/>
+    <member type="way" ref="690905404" role="route"/>
+    <member type="way" ref="20604763" role="route"/>
+    <member type="way" ref="733932661" role="route"/>
+    <member type="way" ref="733932660" role="route"/>
+    <member type="way" ref="403417988" role="route"/>
+    <member type="way" ref="403417990" role="route"/>
+    <member type="way" ref="20606476" role="route"/>
+    <member type="way" ref="658056866" role="route"/>
+    <member type="way" ref="608519566" role="route"/>
+    <member type="way" ref="733932641" role="route"/>
+    <member type="way" ref="733932640" role="route"/>
+    <member type="way" ref="733932643" role="route"/>
+    <member type="way" ref="554278084" role="route"/>
+    <member type="way" ref="733932644" role="route"/>
+    <member type="way" ref="733932645" role="route"/>
+    <member type="way" ref="20609789" role="route"/>
+    <member type="way" ref="733932646" role="route"/>
+    <member type="way" ref="733932662" role="route"/>
+    <member type="way" ref="401128399" role="route"/>
+    <member type="way" ref="101183688" role=""/>
+    <member type="way" ref="400596264" role="route"/>
+    <member type="way" ref="738102001" role="route"/>
+    <member type="way" ref="20610701" role="route"/>
+    <member type="way" ref="554827069" role="route"/>
+    <member type="way" ref="20609572" role="route"/>
+    <member type="way" ref="733932629" role="route"/>
+    <member type="way" ref="659641489" role="route"/>
+    <member type="way" ref="733932625" role="route"/>
+    <member type="way" ref="659641488" role="route"/>
+    <member type="way" ref="20609406" role="route"/>
+    <member type="way" ref="20613112" role="route"/>
+    <member type="way" ref="20601287" role="route"/>
+    <member type="way" ref="733932625" role=""/>
+    <member type="way" ref="823020603" role=""/>
+    <member type="way" ref="733932622" role="route"/>
+    <member type="way" ref="733932621" role="route"/>
+    <member type="way" ref="346070910" role="route"/>
+    <member type="way" ref="823847488" role="route"/>
+    <member type="way" ref="823847489" role="route"/>
+    <member type="way" ref="458098910" role="route"/>
+    <member type="way" ref="733932655" role="route"/>
+    <member type="way" ref="398991872" role="route"/>
+    <member type="way" ref="429779929" role="route"/>
+    <member type="way" ref="429779935" role="route"/>
+    <member type="way" ref="429779926" role="route"/>
+    <member type="way" ref="398991892" role="route"/>
+    <member type="way" ref="824668413" role="route"/>
+    <member type="way" ref="366537845" role="route"/>
+    <member type="way" ref="20601278" role="route"/>
+    <member type="way" ref="608519565" role="route"/>
+    <tag k="name" v="Elizabeth River Trail"/>
+    <tag k="network" v="lcn"/>
+    <tag k="route" v="bicycle"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="8652759" version="5" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="97223074">
+    <member type="way" ref="623208288" role="outer"/>
+    <member type="way" ref="623208338" role="outer"/>
+    <member type="way" ref="623208284" role="outer"/>
+    <member type="way" ref="623208279" role="outer"/>
+    <member type="way" ref="623208276" role="outer"/>
+    <member type="way" ref="623208326" role="outer"/>
+    <member type="way" ref="623208275" role="outer"/>
+    <member type="way" ref="623208303" role="outer"/>
+    <member type="way" ref="623208332" role="outer"/>
+    <member type="way" ref="825049821" role="outer"/>
+    <member type="way" ref="623208312" role="outer"/>
+    <member type="way" ref="623235101" role="outer"/>
+    <member type="way" ref="623208301" role="outer"/>
+    <member type="way" ref="623208323" role="outer"/>
+    <member type="way" ref="623208299" role="outer"/>
+    <member type="way" ref="623210562" role="outer"/>
+    <member type="way" ref="623210553" role="outer"/>
+    <member type="way" ref="623208300" role="outer"/>
+    <member type="way" ref="623208270" role="outer"/>
+    <member type="way" ref="623208298" role="outer"/>
+    <member type="way" ref="623208337" role="inner"/>
+    <member type="way" ref="623208336" role="inner"/>
+    <member type="way" ref="623208335" role="inner"/>
+    <member type="way" ref="623208334" role="inner"/>
+    <member type="way" ref="623208333" role="inner"/>
+    <member type="way" ref="623208331" role="inner"/>
+    <member type="way" ref="623208330" role="inner"/>
+    <member type="way" ref="623208329" role="inner"/>
+    <member type="way" ref="623208328" role="inner"/>
+    <member type="way" ref="623208327" role="inner"/>
+    <member type="way" ref="623208325" role="inner"/>
+    <member type="way" ref="623208324" role="inner"/>
+    <member type="way" ref="623208322" role="inner"/>
+    <member type="way" ref="623208321" role="inner"/>
+    <member type="way" ref="623208320" role="inner"/>
+    <member type="way" ref="623208319" role="inner"/>
+    <member type="way" ref="623208318" role="inner"/>
+    <member type="way" ref="623208317" role="inner"/>
+    <member type="way" ref="623208316" role="inner"/>
+    <member type="way" ref="623208315" role="inner"/>
+    <member type="way" ref="623208314" role="inner"/>
+    <member type="way" ref="623208313" role="inner"/>
+    <member type="way" ref="623208302" role="inner"/>
+    <tag k="natural" v="water"/>
+    <tag k="tidal" v="yes"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="water" v="river"/>
+  </relation>
+  <relation id="8993394" version="4" timestamp="2021-04-15T01:52:49Z" uid="1983103" user="Jorisbo" changeset="100859453">
+    <member type="way" ref="146500420" role="outer"/>
+    <member type="way" ref="147435142" role="inner"/>
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="name" v="Lot 41"/>
+    <tag k="parking" v="surface"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="9198227" version="7" timestamp="2021-04-15T01:52:49Z" uid="1408522" user="Omnific" changeset="97258867">
+    <member type="way" ref="147043200" role="outer"/>
+    <member type="way" ref="822930429" role="outer"/>
+    <member type="way" ref="822930428" role="outer"/>
+    <member type="way" ref="661657683" role="outer"/>
+    <member type="way" ref="822961390" role="outer"/>
+    <member type="way" ref="822961391" role="outer"/>
+    <member type="way" ref="823495123" role="inner"/>
+    <member type="way" ref="823495127" role="inner"/>
+    <member type="way" ref="823599147" role="outer"/>
+    <member type="way" ref="823599148" role="outer"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Old Dominion University"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="wikidata" v="Q1474100"/>
+  </relation>
+  <relation id="9600752" version="3" timestamp="2021-04-15T01:52:49Z" uid="6065836" user="gkitt001" changeset="89314288">
+    <member type="way" ref="20612772" role="forward"/>
+    <member type="way" ref="690905318" role="forward"/>
+    <member type="way" ref="690905319" role="forward"/>
+    <member type="way" ref="690905322" role="forward"/>
+    <member type="way" ref="690905324" role="forward"/>
+    <member type="way" ref="690905315" role="forward"/>
+    <member type="way" ref="20587106" role=""/>
+    <member type="way" ref="690905313" role="forward"/>
+    <member type="way" ref="690905310" role="forward"/>
+    <member type="way" ref="554827070" role="forward"/>
+    <member type="way" ref="690905325" role=""/>
+    <member type="way" ref="687258945" role=""/>
+    <member type="way" ref="690905415" role="forward"/>
+    <member type="way" ref="309334270" role="forward"/>
+    <member type="way" ref="836471703" role="forward"/>
+    <member type="way" ref="48749492" role="forward"/>
+    <member type="way" ref="690905419" role="forward"/>
+    <member type="way" ref="48749491" role="forward"/>
+    <member type="way" ref="48749493" role="forward"/>
+    <member type="way" ref="48749495" role="forward"/>
+    <member type="way" ref="48749494" role="forward"/>
+    <member type="way" ref="836471705" role="forward"/>
+    <member type="way" ref="690905414" role="forward"/>
+    <member type="way" ref="20598413" role=""/>
+    <member type="way" ref="690905332" role=""/>
+    <member type="way" ref="20608447" role=""/>
+    <member type="way" ref="690905334" role="forward"/>
+    <member type="way" ref="690831576" role="forward"/>
+    <member type="way" ref="673898452" role="forward"/>
+    <member type="way" ref="673898456" role="forward"/>
+    <member type="way" ref="690929535" role="forward"/>
+    <member type="way" ref="20604983" role="forward"/>
+    <member type="way" ref="690831575" role="forward"/>
+    <member type="way" ref="690831574" role="forward"/>
+    <member type="way" ref="624554688" role="forward"/>
+    <member type="way" ref="624554686" role="forward"/>
+    <member type="way" ref="690831572" role="forward"/>
+    <member type="way" ref="20604942" role="forward"/>
+    <member type="way" ref="690831577" role="forward"/>
+    <member type="way" ref="690905335" role="forward"/>
+    <member type="way" ref="690905333" role="forward"/>
+    <tag k="name" v="HRT Route 4"/>
+    <tag k="network" v="HRT"/>
+    <tag k="operator" v="Hampton Roads Transit"/>
+    <tag k="public_transport:version" v="1"/>
+    <tag k="ref" v="4"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="9600754" version="12" timestamp="2021-04-15T01:52:49Z" uid="8649216" user="boopington" changeset="88475208">
+    <member type="way" ref="20608391" role="forward"/>
+    <member type="way" ref="624554686" role="forward"/>
+    <member type="way" ref="624554688" role="forward"/>
+    <member type="way" ref="690831574" role="forward"/>
+    <member type="way" ref="690831575" role="forward"/>
+    <member type="way" ref="20604983" role="forward"/>
+    <member type="way" ref="20606327" role="forward"/>
+    <member type="way" ref="690929590" role="forward"/>
+    <member type="way" ref="619538114" role="forward"/>
+    <member type="way" ref="20612754" role="forward"/>
+    <member type="way" ref="331464405" role="forward"/>
+    <member type="way" ref="690905438" role="forward"/>
+    <member type="way" ref="47972534" role="forward"/>
+    <member type="way" ref="47973227" role="forward"/>
+    <member type="way" ref="690929311" role="forward"/>
+    <member type="way" ref="47973224" role="forward"/>
+    <member type="way" ref="690929589" role="forward"/>
+    <member type="way" ref="47973203" role="forward"/>
+    <member type="way" ref="690905423" role="forward"/>
+    <member type="way" ref="20598816" role="forward"/>
+    <member type="way" ref="20599914" role=""/>
+    <member type="way" ref="20607676" role=""/>
+    <member type="way" ref="690905428" role="forward"/>
+    <member type="way" ref="20608853" role="forward"/>
+    <member type="way" ref="690929498" role="forward"/>
+    <member type="way" ref="48778217" role="forward"/>
+    <member type="way" ref="20608850" role="forward"/>
+    <member type="way" ref="690905424" role="forward"/>
+    <member type="way" ref="690929497" role="forward"/>
+    <member type="way" ref="366537845" role="forward"/>
+    <member type="way" ref="824668413" role="forward"/>
+    <member type="way" ref="398991893" role="forward"/>
+    <member type="way" ref="398991894" role="forward"/>
+    <member type="way" ref="47972846" role="forward"/>
+    <member type="way" ref="310311338" role="forward"/>
+    <member type="way" ref="310311337" role=""/>
+    <member type="way" ref="690905407" role="forward"/>
+    <member type="way" ref="399259511" role="forward"/>
+    <member type="way" ref="20600896" role="forward"/>
+    <member type="way" ref="20605491" role="forward"/>
+    <member type="way" ref="20605491" role="forward"/>
+    <member type="way" ref="20600896" role="forward"/>
+    <member type="way" ref="399259511" role="forward"/>
+    <member type="way" ref="690905407" role="forward"/>
+    <member type="way" ref="310311337" role=""/>
+    <member type="way" ref="690905402" role="forward"/>
+    <member type="way" ref="690905400" role="forward"/>
+    <member type="way" ref="48778213" role="forward"/>
+    <member type="way" ref="690966899" role="forward"/>
+    <member type="way" ref="429779936" role="forward"/>
+    <member type="way" ref="822784732" role="forward"/>
+    <member type="way" ref="682356058" role="forward"/>
+    <member type="way" ref="398078615" role="forward"/>
+    <member type="way" ref="690905412" role="forward"/>
+    <member type="way" ref="310311338" role="forward"/>
+    <member type="way" ref="366537845" role="forward"/>
+    <member type="way" ref="824668413" role="forward"/>
+    <member type="way" ref="398991893" role="forward"/>
+    <member type="way" ref="398991894" role="forward"/>
+    <member type="way" ref="47972846" role="forward"/>
+    <member type="way" ref="310311338" role="forward"/>
+    <member type="way" ref="429779932" role="forward"/>
+    <member type="way" ref="690905422" role="forward"/>
+    <member type="way" ref="690966900" role="forward"/>
+    <member type="way" ref="690966900" role="forward"/>
+    <member type="way" ref="690905422" role="forward"/>
+    <member type="way" ref="429779932" role="forward"/>
+    <member type="way" ref="310311338" role="forward"/>
+    <member type="way" ref="690905412" role="forward"/>
+    <member type="way" ref="398078615" role="forward"/>
+    <member type="way" ref="682356058" role="forward"/>
+    <member type="way" ref="822784732" role="forward"/>
+    <member type="way" ref="429779936" role="forward"/>
+    <member type="way" ref="20608023" role="forward"/>
+    <member type="way" ref="690905398" role=""/>
+    <member type="way" ref="429779937" role="forward"/>
+    <member type="way" ref="20606889" role="forward"/>
+    <member type="way" ref="690905399" role="forward"/>
+    <member type="way" ref="47972379" role=""/>
+    <member type="way" ref="786117921" role=""/>
+    <member type="way" ref="288495747" role=""/>
+    <member type="way" ref="288495749" role="forward"/>
+    <member type="way" ref="48749501" role="forward"/>
+    <member type="way" ref="48749500" role=""/>
+    <member type="way" ref="128385727" role=""/>
+    <member type="way" ref="288495750" role=""/>
+    <member type="way" ref="288495748" role=""/>
+    <member type="way" ref="288495751" role="forward"/>
+    <member type="way" ref="814408482" role="forward"/>
+    <member type="way" ref="814408481" role="forward"/>
+    <member type="way" ref="686831809" role="forward"/>
+    <member type="way" ref="823017796" role="forward"/>
+    <member type="way" ref="128385728" role="forward"/>
+    <member type="way" ref="690966936" role="forward"/>
+    <member type="way" ref="825147877" role="forward"/>
+    <member type="way" ref="370220698" role="forward"/>
+    <member type="way" ref="20611083" role="forward"/>
+    <member type="way" ref="20596780" role="forward"/>
+    <member type="way" ref="100946629" role="forward"/>
+    <member type="way" ref="20591299" role="forward"/>
+    <member type="way" ref="505361068" role="forward"/>
+    <member type="way" ref="690905396" role="forward"/>
+    <member type="way" ref="178956380" role="forward"/>
+    <member type="way" ref="690905349" role="forward"/>
+    <member type="way" ref="178956375" role="forward"/>
+    <member type="way" ref="690905347" role="forward"/>
+    <member type="way" ref="370219668" role="forward"/>
+    <member type="way" ref="370219684" role="forward"/>
+    <member type="way" ref="692049607" role="forward"/>
+    <member type="way" ref="825147874" role="forward"/>
+    <member type="way" ref="690966935" role="forward"/>
+    <member type="way" ref="733932648" role="forward"/>
+    <member type="way" ref="128385729" role="forward"/>
+    <member type="way" ref="20606837" role="forward"/>
+    <member type="way" ref="814408484" role="forward"/>
+    <member type="way" ref="690905318" role="forward"/>
+    <member type="way" ref="690905317" role="forward"/>
+    <tag k="name" v="HRT Route 2"/>
+    <tag k="network" v="HRT"/>
+    <tag k="operator" v="Hampton Roads Transit"/>
+    <tag k="public_transport:version" v="1"/>
+    <tag k="ref" v="2"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="9619797" version="12" timestamp="2021-04-15T01:52:49Z" uid="6065836" user="gkitt001" changeset="89060761">
+    <member type="way" ref="690905340" role="forward"/>
+    <member type="way" ref="48866584" role="forward"/>
+    <member type="way" ref="179303711" role="backward"/>
+    <member type="way" ref="692049659" role=""/>
+    <member type="way" ref="48865930" role=""/>
+    <member type="way" ref="20597048" role="forward"/>
+    <member type="way" ref="692049585" role="forward"/>
+    <member type="way" ref="274382106" role="forward"/>
+    <member type="way" ref="692049592" role=""/>
+    <member type="way" ref="372779763" role="forward"/>
+    <member type="way" ref="692049589" role="forward"/>
+    <member type="way" ref="692049667" role="forward"/>
+    <member type="way" ref="352823006" role="forward"/>
+    <member type="way" ref="20593341" role="forward"/>
+    <member type="way" ref="692049594" role="forward"/>
+    <member type="way" ref="692049666" role="forward"/>
+    <member type="way" ref="692049665" role="forward"/>
+    <member type="way" ref="692049593" role="forward"/>
+    <member type="way" ref="692049594" role="forward"/>
+    <member type="way" ref="20593341" role="forward"/>
+    <member type="way" ref="352823006" role="forward"/>
+    <member type="way" ref="692049667" role="forward"/>
+    <member type="way" ref="20609982" role="forward"/>
+    <member type="way" ref="692049665" role="forward"/>
+    <member type="way" ref="692049593" role="forward"/>
+    <member type="way" ref="690966928" role=""/>
+    <member type="way" ref="692049644" role=""/>
+    <member type="way" ref="20592963" role=""/>
+    <member type="way" ref="372143489" role="forward"/>
+    <member type="way" ref="692049655" role="forward"/>
+    <member type="way" ref="692049645" role="forward"/>
+    <member type="way" ref="692049646" role="forward"/>
+    <member type="way" ref="690966931" role="forward"/>
+    <member type="way" ref="20593924" role="forward"/>
+    <member type="way" ref="20607588" role="forward"/>
+    <member type="way" ref="692049653" role="forward"/>
+    <member type="way" ref="352823013" role="forward"/>
+    <member type="way" ref="692049662" role=""/>
+    <member type="way" ref="372143533" role="forward"/>
+    <member type="way" ref="372143534" role="forward"/>
+    <member type="way" ref="20590222" role=""/>
+    <member type="way" ref="690966932" role=""/>
+    <member type="way" ref="20603232" role=""/>
+    <member type="way" ref="372420066" role=""/>
+    <member type="way" ref="20606048" role=""/>
+    <member type="way" ref="690966933" role="forward"/>
+    <member type="way" ref="692049661" role="forward"/>
+    <member type="way" ref="20590864" role="forward"/>
+    <member type="way" ref="452454546" role="forward"/>
+    <member type="way" ref="535288360" role="forward"/>
+    <member type="way" ref="692049658" role="forward"/>
+    <member type="way" ref="535288361" role="forward"/>
+    <member type="way" ref="535288362" role="forward"/>
+    <member type="way" ref="20591107" role="forward"/>
+    <member type="way" ref="692049601" role=""/>
+    <member type="way" ref="372525882" role="forward"/>
+    <member type="way" ref="452454544" role="forward"/>
+    <member type="way" ref="452454549" role="forward"/>
+    <member type="way" ref="825147874" role="forward"/>
+    <member type="way" ref="690966935" role="forward"/>
+    <member type="way" ref="733932648" role="forward"/>
+    <member type="way" ref="128385729" role="forward"/>
+    <member type="way" ref="20606837" role="forward"/>
+    <member type="way" ref="814408484" role="forward"/>
+    <member type="way" ref="690905318" role="forward"/>
+    <member type="way" ref="690905317" role="forward"/>
+    <member type="way" ref="288495751" role="forward"/>
+    <member type="way" ref="814408482" role="forward"/>
+    <member type="way" ref="814408481" role="forward"/>
+    <member type="way" ref="686831809" role="forward"/>
+    <member type="way" ref="823017796" role="forward"/>
+    <member type="way" ref="128385728" role="forward"/>
+    <member type="way" ref="690966936" role="forward"/>
+    <member type="way" ref="452454542" role="forward"/>
+    <member type="way" ref="452453179" role="forward"/>
+    <member type="way" ref="370220701" role="forward"/>
+    <member type="way" ref="370220698" role="forward"/>
+    <member type="way" ref="825147877" role="forward"/>
+    <member type="way" ref="288495748" role=""/>
+    <member type="way" ref="288495750" role=""/>
+    <member type="way" ref="128385727" role=""/>
+    <member type="way" ref="48749500" role=""/>
+    <member type="way" ref="48749501" role="forward"/>
+    <member type="way" ref="288495749" role="forward"/>
+    <member type="way" ref="288495747" role=""/>
+    <member type="way" ref="786117921" role=""/>
+    <member type="way" ref="47972379" role=""/>
+    <member type="way" ref="20606889" role="forward"/>
+    <member type="way" ref="20590633" role="forward"/>
+    <member type="way" ref="20610524" role="forward"/>
+    <member type="way" ref="398422846" role="forward"/>
+    <member type="way" ref="429779938" role="forward"/>
+    <member type="way" ref="398422844" role="forward"/>
+    <member type="way" ref="120257648" role="forward"/>
+    <member type="way" ref="834819206" role="forward"/>
+    <member type="way" ref="47647993" role="forward"/>
+    <member type="way" ref="47643045" role="forward"/>
+    <member type="way" ref="47657774" role="forward"/>
+    <member type="way" ref="636707812" role="forward"/>
+    <member type="way" ref="636707811" role="forward"/>
+    <member type="way" ref="361809599" role="forward"/>
+    <member type="way" ref="47643048" role="forward"/>
+    <member type="way" ref="47643050" role="forward"/>
+    <member type="way" ref="197960501" role="forward"/>
+    <member type="way" ref="197960496" role="forward"/>
+    <member type="way" ref="197960498" role="forward"/>
+    <member type="way" ref="47892371" role="forward"/>
+    <member type="way" ref="47892389" role="forward"/>
+    <member type="way" ref="692049577" role="forward"/>
+    <member type="way" ref="20612743" role="forward"/>
+    <member type="way" ref="692049574" role="forward"/>
+    <member type="way" ref="48765634" role="forward"/>
+    <member type="way" ref="48765633" role="forward"/>
+    <member type="way" ref="48765635" role="forward"/>
+    <member type="way" ref="20578846" role="forward"/>
+    <member type="way" ref="114200989" role="forward"/>
+    <member type="way" ref="617083310" role="forward"/>
+    <member type="way" ref="692049491" role="forward"/>
+    <member type="way" ref="20565210" role="forward"/>
+    <member type="way" ref="307093345" role="forward"/>
+    <member type="way" ref="48765698" role="forward"/>
+    <member type="way" ref="692049494" role="forward"/>
+    <member type="way" ref="307093344" role="forward"/>
+    <member type="way" ref="692049553" role="forward"/>
+    <member type="way" ref="242211913" role="forward"/>
+    <member type="way" ref="692049554" role="forward"/>
+    <member type="way" ref="384237403" role="forward"/>
+    <member type="way" ref="692049556" role="forward"/>
+    <member type="way" ref="583085848" role="forward"/>
+    <member type="way" ref="20565206" role="forward"/>
+    <member type="way" ref="617083307" role="forward"/>
+    <member type="way" ref="114200994" role="forward"/>
+    <member type="way" ref="114200988" role="forward"/>
+    <member type="way" ref="20635172" role="forward"/>
+    <member type="way" ref="48765630" role="forward"/>
+    <member type="way" ref="692049570" role="forward"/>
+    <member type="way" ref="604592753" role="forward"/>
+    <member type="way" ref="48765656" role="forward"/>
+    <member type="way" ref="48765658" role="forward"/>
+    <member type="way" ref="20612585" role="forward"/>
+    <member type="way" ref="114200993" role="forward"/>
+    <member type="way" ref="114200986" role="forward"/>
+    <member type="way" ref="20594210" role="forward"/>
+    <member type="way" ref="47892373" role="forward"/>
+    <member type="way" ref="47892372" role="forward"/>
+    <member type="way" ref="197960500" role="forward"/>
+    <member type="way" ref="197960499" role="forward"/>
+    <member type="way" ref="47892374" role="forward"/>
+    <member type="way" ref="47892375" role="forward"/>
+    <member type="way" ref="47415755" role="forward"/>
+    <member type="way" ref="636707810" role="forward"/>
+    <member type="way" ref="361809598" role="forward"/>
+    <member type="way" ref="26555730" role="forward"/>
+    <member type="way" ref="47972384" role="forward"/>
+    <member type="way" ref="47972383" role="forward"/>
+    <member type="way" ref="47972381" role="forward"/>
+    <member type="way" ref="20608679" role="forward"/>
+    <member type="way" ref="20613483" role="forward"/>
+    <member type="way" ref="47972484" role="forward"/>
+    <member type="way" ref="824668406" role="forward"/>
+    <member type="way" ref="47972376" role="forward"/>
+    <member type="way" ref="20606896" role="forward"/>
+    <member type="way" ref="429779937" role="forward"/>
+    <tag k="fixme" v="verify loop at Chesapeake Center"/>
+    <tag k="name" v="HRT Route 974"/>
+    <tag k="network" v="HRT"/>
+    <tag k="operator" v="Hampton Roads Transit"/>
+    <tag k="public_transport:version" v="1"/>
+    <tag k="ref" v="974"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="9619798" version="10" timestamp="2021-04-15T01:52:49Z" uid="6065836" user="gkitt001" changeset="89060761">
+    <member type="way" ref="690905340" role="forward"/>
+    <member type="way" ref="48866584" role="forward"/>
+    <member type="way" ref="179303711" role="backward"/>
+    <member type="way" ref="692049659" role=""/>
+    <member type="way" ref="48865930" role=""/>
+    <member type="way" ref="20597048" role="forward"/>
+    <member type="way" ref="692049585" role="forward"/>
+    <member type="way" ref="274382106" role="forward"/>
+    <member type="way" ref="692049592" role=""/>
+    <member type="way" ref="372779763" role="forward"/>
+    <member type="way" ref="692049589" role="forward"/>
+    <member type="way" ref="692049667" role="forward"/>
+    <member type="way" ref="352823006" role="forward"/>
+    <member type="way" ref="20593341" role="forward"/>
+    <member type="way" ref="692049594" role="forward"/>
+    <member type="way" ref="692049666" role="forward"/>
+    <member type="way" ref="692049665" role="forward"/>
+    <member type="way" ref="692049593" role="forward"/>
+    <member type="way" ref="692049594" role="forward"/>
+    <member type="way" ref="20593341" role="forward"/>
+    <member type="way" ref="352823006" role="forward"/>
+    <member type="way" ref="692049667" role="forward"/>
+    <member type="way" ref="20609982" role="forward"/>
+    <member type="way" ref="692049665" role="forward"/>
+    <member type="way" ref="692049593" role="forward"/>
+    <member type="way" ref="690966928" role=""/>
+    <member type="way" ref="692049644" role=""/>
+    <member type="way" ref="20592963" role=""/>
+    <member type="way" ref="372143489" role="forward"/>
+    <member type="way" ref="692049655" role="forward"/>
+    <member type="way" ref="692049645" role="forward"/>
+    <member type="way" ref="692049646" role="forward"/>
+    <member type="way" ref="690966931" role="forward"/>
+    <member type="way" ref="20593924" role="forward"/>
+    <member type="way" ref="20607588" role="forward"/>
+    <member type="way" ref="692049653" role="forward"/>
+    <member type="way" ref="352823013" role="forward"/>
+    <member type="way" ref="692049662" role=""/>
+    <member type="way" ref="372143533" role="forward"/>
+    <member type="way" ref="372143534" role="forward"/>
+    <member type="way" ref="20590222" role=""/>
+    <member type="way" ref="690966932" role=""/>
+    <member type="way" ref="20603232" role=""/>
+    <member type="way" ref="372420066" role=""/>
+    <member type="way" ref="20606048" role=""/>
+    <member type="way" ref="690966933" role="forward"/>
+    <member type="way" ref="692049661" role="forward"/>
+    <member type="way" ref="20590864" role="forward"/>
+    <member type="way" ref="452454546" role="forward"/>
+    <member type="way" ref="535288360" role="forward"/>
+    <member type="way" ref="692049658" role="forward"/>
+    <member type="way" ref="535288361" role="forward"/>
+    <member type="way" ref="535288362" role="forward"/>
+    <member type="way" ref="20591107" role="forward"/>
+    <member type="way" ref="692049601" role=""/>
+    <member type="way" ref="372525882" role="forward"/>
+    <member type="way" ref="452454544" role="forward"/>
+    <member type="way" ref="452454549" role="forward"/>
+    <member type="way" ref="825147874" role="forward"/>
+    <member type="way" ref="690966935" role="forward"/>
+    <member type="way" ref="733932648" role="forward"/>
+    <member type="way" ref="128385729" role="forward"/>
+    <member type="way" ref="20606837" role="forward"/>
+    <member type="way" ref="814408484" role="forward"/>
+    <member type="way" ref="690905318" role="forward"/>
+    <member type="way" ref="690905317" role="forward"/>
+    <member type="way" ref="288495751" role="forward"/>
+    <member type="way" ref="814408482" role="forward"/>
+    <member type="way" ref="814408481" role="forward"/>
+    <member type="way" ref="686831809" role="forward"/>
+    <member type="way" ref="823017796" role="forward"/>
+    <member type="way" ref="128385728" role="forward"/>
+    <member type="way" ref="690966936" role="forward"/>
+    <member type="way" ref="452454542" role="forward"/>
+    <member type="way" ref="452453179" role="forward"/>
+    <member type="way" ref="370220701" role="forward"/>
+    <member type="way" ref="370220698" role="forward"/>
+    <member type="way" ref="825147877" role="forward"/>
+    <member type="way" ref="288495748" role=""/>
+    <member type="way" ref="288495750" role=""/>
+    <member type="way" ref="128385727" role=""/>
+    <member type="way" ref="48749500" role=""/>
+    <member type="way" ref="48749501" role="forward"/>
+    <member type="way" ref="288495749" role="forward"/>
+    <member type="way" ref="288495747" role=""/>
+    <member type="way" ref="786117921" role=""/>
+    <member type="way" ref="47972379" role=""/>
+    <member type="way" ref="20606889" role="forward"/>
+    <member type="way" ref="20590633" role="forward"/>
+    <member type="way" ref="20610524" role="forward"/>
+    <member type="way" ref="398422846" role="forward"/>
+    <member type="way" ref="429779938" role="forward"/>
+    <member type="way" ref="398422844" role="forward"/>
+    <member type="way" ref="120257648" role="forward"/>
+    <member type="way" ref="834819206" role="forward"/>
+    <member type="way" ref="47648003" role="forward"/>
+    <member type="way" ref="47972396" role="forward"/>
+    <member type="way" ref="47972390" role="forward"/>
+    <member type="way" ref="636707809" role="forward"/>
+    <member type="way" ref="636707808" role="forward"/>
+    <member type="way" ref="20598416" role="forward"/>
+    <member type="way" ref="456738058" role="forward"/>
+    <member type="way" ref="456738071" role="forward"/>
+    <member type="way" ref="456738069" role="forward"/>
+    <member type="way" ref="456738638" role="forward"/>
+    <member type="way" ref="456733723" role="forward"/>
+    <member type="way" ref="456733719" role="forward"/>
+    <member type="way" ref="456733725" role="forward"/>
+    <member type="way" ref="37849366" role="forward"/>
+    <member type="way" ref="47973210" role="forward"/>
+    <member type="way" ref="37849399" role="forward"/>
+    <member type="way" ref="37849396" role="forward"/>
+    <member type="way" ref="183009904" role="forward"/>
+    <member type="way" ref="20590831" role="forward"/>
+    <member type="way" ref="626369299" role="forward"/>
+    <member type="way" ref="626369298" role="forward"/>
+    <member type="way" ref="47973211" role="forward"/>
+    <member type="way" ref="690966820" role="forward"/>
+    <member type="way" ref="690966823" role="forward"/>
+    <member type="way" ref="690972510" role="forward"/>
+    <member type="way" ref="198113221" role="forward"/>
+    <member type="way" ref="224708605" role="forward"/>
+    <member type="way" ref="690966824" role="backward"/>
+    <member type="way" ref="690966825" role="forward"/>
+    <member type="way" ref="442661544" role="forward"/>
+    <member type="way" ref="690966833" role="forward"/>
+    <member type="way" ref="690966832" role="forward"/>
+    <member type="way" ref="690966831" role="forward"/>
+    <member type="way" ref="690966830" role="forward"/>
+    <member type="way" ref="20590617" role="forward"/>
+    <member type="way" ref="122753231" role="forward"/>
+    <member type="way" ref="183011933" role="forward"/>
+    <member type="way" ref="183011932" role="forward"/>
+    <member type="way" ref="183009901" role="forward"/>
+    <member type="way" ref="183009902" role="forward"/>
+    <member type="way" ref="37849427" role="forward"/>
+    <member type="way" ref="37849425" role="forward"/>
+    <member type="way" ref="47973212" role="forward"/>
+    <member type="way" ref="183009903" role="forward"/>
+    <member type="way" ref="20591776" role="forward"/>
+    <member type="way" ref="456738056" role="forward"/>
+    <member type="way" ref="456739855" role="forward"/>
+    <member type="way" ref="456739859" role="forward"/>
+    <member type="way" ref="456739860" role="forward"/>
+    <member type="way" ref="456739856" role="forward"/>
+    <member type="way" ref="456738640" role="forward"/>
+    <member type="way" ref="624373356" role="forward"/>
+    <member type="way" ref="456738637" role="forward"/>
+    <member type="way" ref="456738067" role="forward"/>
+    <member type="way" ref="456738059" role="forward"/>
+    <member type="way" ref="636707807" role="forward"/>
+    <member type="way" ref="47642420" role="forward"/>
+    <member type="way" ref="47642422" role="forward"/>
+    <member type="way" ref="47642421" role="forward"/>
+    <member type="way" ref="47972383" role="forward"/>
+    <member type="way" ref="47972381" role="forward"/>
+    <member type="way" ref="20608679" role="forward"/>
+    <member type="way" ref="20613483" role="forward"/>
+    <member type="way" ref="47972484" role="forward"/>
+    <member type="way" ref="824668406" role="forward"/>
+    <member type="way" ref="47972376" role="forward"/>
+    <member type="way" ref="20606896" role="forward"/>
+    <member type="way" ref="429779937" role="forward"/>
+    <tag k="name" v="HRT Route 973"/>
+    <tag k="network" v="HRT"/>
+    <tag k="operator" v="Hampton Roads Transit"/>
+    <tag k="public_transport:version" v="1"/>
+    <tag k="ref" v="973"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="11188376" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049">
+    <member type="way" ref="288495751" role="from"/>
+    <member type="way" ref="814408482" role="via"/>
+    <member type="way" ref="814408480" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="11188377" version="2" timestamp="2021-04-15T01:52:49Z" uid="30521" user="dufekin" changeset="87545049">
+    <member type="way" ref="814408482" role="from"/>
+    <member type="way" ref="814408480" role="via"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="11882257" version="2" timestamp="2021-04-15T01:52:49Z" uid="80285" user="Sparks" changeset="94007115">
+    <member type="way" ref="622498702" role="outer"/>
+    <member type="way" ref="842621557" role="outer"/>
+    <member type="way" ref="842621550" role="outer"/>
+    <member type="way" ref="842621549" role="outer"/>
+    <member type="way" ref="842621552" role="outer"/>
+    <member type="way" ref="622498698" role="outer"/>
+    <member type="way" ref="622498699" role="outer"/>
+    <member type="way" ref="622498712" role="outer"/>
+    <member type="way" ref="870842641" role="outer"/>
+    <member type="way" ref="623235102" role="outer"/>
+    <member type="way" ref="623208301" role="outer"/>
+    <member type="way" ref="47658085" role="outer"/>
+    <member type="way" ref="48791929" role="outer"/>
+    <member type="way" ref="497706776" role="outer"/>
+    <member type="way" ref="822790379" role="outer"/>
+    <member type="way" ref="835209506" role="outer"/>
+    <member type="way" ref="835209508" role="outer"/>
+    <member type="way" ref="835209504" role="outer"/>
+    <member type="way" ref="48791898" role="outer"/>
+    <member type="way" ref="870842635" role="outer"/>
+    <member type="way" ref="854318554" role="outer"/>
+    <member type="way" ref="870851048" role="outer"/>
+    <member type="way" ref="870851047" role="outer"/>
+    <member type="way" ref="870842637" role="outer"/>
+    <member type="way" ref="622917714" role="outer"/>
+    <member type="way" ref="712572466" role="outer"/>
+    <member type="way" ref="622944094" role="outer"/>
+    <member type="way" ref="622944092" role="outer"/>
+    <member type="way" ref="622944091" role="outer"/>
+    <member type="way" ref="845497645" role="outer"/>
+    <member type="way" ref="839601758" role="outer"/>
+    <member type="way" ref="839601760" role="outer"/>
+    <member type="way" ref="839601759" role="outer"/>
+    <member type="way" ref="714399458" role="outer"/>
+    <member type="way" ref="714399457" role="outer"/>
+    <member type="way" ref="622702082" role="outer"/>
+    <tag k="name" v="Elizabeth River"/>
+    <tag k="natural" v="water"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="water" v="river"/>
+  </relation>
+</osm>

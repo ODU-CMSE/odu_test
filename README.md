@@ -10,6 +10,8 @@ Or load OpenDRIVE file into CARLA:
 python3 config.py -x odu_test.xodr
 ```
 
+Move `odu_test` folder to `scenarios` folder in MOSAIC.
+
 Execute `odu_test` scenario:
 ```
 mosaic.bat -s odu_test -v

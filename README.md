@@ -16,3 +16,12 @@ Execute `odu_test` scenario:
 ```
 mosaic.bat -s odu_test -v
 ```
+
+Test:
+```
+python3 spawn_npc_sumo.py -n 100 --sumo-gui --tls-manager sumo
+```
+
+```
+python3 run_synchronization.py odu_test.sumocfg --sumo-gui --tls-manager sumo
+```
